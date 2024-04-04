@@ -1,0 +1,12 @@
+{
+  "name": "acquired-carve-outs",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "puppeteer": "^22.6.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
