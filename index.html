@@ -1,0 +1,88 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" href="https://unpkg.com/chota@latest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+    rel="stylesheet">
+
+  <script src="https://unpkg.com/htmx.org@1.9.11"
+    integrity="sha384-0gxUXCCR8yv9FM2b+U3FDbsKthCI66oH5IA9fHppQq9DDMHuMauqq1ZHBpJxQ0J0"
+    crossorigin="anonymous"></script>
+
+  <style>
+    body {
+      font-family: 'Lora', serif;
+      padding: 1rem;
+    }
+
+    .nav {
+      margin: -1rem;
+      margin-bottom: 1rem;
+      font-family: Arial, sans-serif;
+
+      background-color: #000;
+      color: #fff;
+      padding: 1rem 0;
+    }
+
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-brand {
+      font-size: 2rem;
+      font-weight: semibold;
+      color: #3fc
+    }
+
+    .nav-content .link {
+      color: #3fc;
+      text-decoration: none;
+      font-size: 1.25rem;
+      padding: 0.5rem 1rem;
+      margin-left: 1rem;
+      border: 1px solid #3fc;
+    }
+
+    #json-list-container {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: 1fr;
+    }
+
+    @media (min-width: 768px) {
+      #json-list-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    /* Desktop (at least 1024px) */
+    @media (min-width: 1024px) {
+      #json-list-container {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+  <nav class="nav">
+    <div class="container">
+      <span class="nav-brand">ACQUIRED.FM CARVE OUTS</span>
+      <div class="nav-content">
+        <a href="https://github.com/e0/acquired-carve-outs" target="_blank" class="link">Source Code</a>
+      </div>
+    </div>
+  </nav>
+  <div id="json-list-container" />
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>

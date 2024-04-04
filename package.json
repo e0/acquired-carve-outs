@@ -4,9 +4,15 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
-    "puppeteer": "^22.6.2"
+    "puppeteer": "^22.6.2",
+    "vite": "^5.2.8"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "bunx --bun vite",
+    "build": "vite build",
+    "serve": "vite preview"
   }
 }
