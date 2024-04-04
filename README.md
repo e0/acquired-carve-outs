@@ -1,5 +1,9 @@
 # acquired-carve-outs
 
+This is a web scraper that collects the "Carve Outs" from the aquired.fm podcast.
+
+## Run
+
 To install dependencies:
 
 ```bash
