@@ -78,7 +78,7 @@ while (currentPage > 0) {
 }
 
 // write to careve-outs.json
-fs.writeFileSync("carve-outs.json", JSON.stringify(episodes, null, 2));
+fs.writeFileSync("public/carve-outs.json", JSON.stringify(episodes, null, 2));
 
 await browser.close();
 
