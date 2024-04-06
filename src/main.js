@@ -4,6 +4,7 @@ fetch("/carve-outs.json")
     const listContainer = document.getElementById("json-list-container");
     if (listContainer) {
       let listHtml = data
+        .reverse()
         .map(
           (item) => `
                 <div class="card">
