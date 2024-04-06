@@ -7,28 +7,39 @@ const page = await browser.newPage();
 const getCareveoutsForPage = async (url: string) => {
   await page.goto(url);
 
-  const titleH1 = await page.$eval("h1", (el) => el.textContent);
+  const title = await page.$eval("h1", (el) => el.textContent);
+  const episode = await page.$eval(
+    ".section-heading .heading-4",
+    (el) => el.textContent,
+  );
+  const date = await page.$eval(
+    ".section-heading .blog-date",
+    (el) => el.textContent,
+  );
 
   const carveOuts = await page.evaluate(() => {
     const items = [];
-    // Find all <strong> tags, then find the next sibling <ul> for each and extract its <li> elements
     document.querySelectorAll("strong").forEach((strong) => {
       if (strong.textContent.toLowerCase().includes("carve")) {
-        // Assuming the <ul> is directly following the <p> that contains the <strong> tag
         let nextElement = strong.parentElement.nextElementSibling;
-        // Ensure the next element is a <ul> before proceeding
         if (nextElement && nextElement.tagName === "UL") {
           nextElement.querySelectorAll("li").forEach((li) => {
-            // Extract name and link
             const textParts = li.innerText
               .split(":")
               .map((part) => part.trim());
             const linkElement = li.querySelector("a");
+
+            const name = textParts.length > 1 ? textParts[1] : textParts[0];
+
             const item = {
-              name: textParts[0],
-              item: textParts[1],
+              name,
               link: linkElement ? linkElement.href : null,
             };
+
+            if (textParts.length > 1) {
+              item.carver = textParts[0];
+            }
+
             items.push(item);
           });
         }
@@ -37,7 +48,7 @@ const getCareveoutsForPage = async (url: string) => {
     return items;
   });
 
-  return { title: titleH1, carveOuts };
+  return { title, episode, date, carveOuts, url };
 };
 
 const episodes = [];
@@ -81,4 +92,3 @@ while (currentPage > 0) {
 fs.writeFileSync("public/carve-outs.json", JSON.stringify(episodes, null, 2));
 
 await browser.close();
-

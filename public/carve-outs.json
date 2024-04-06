@@ -1,6 +1,8 @@
 [
   {
     "title": "Push Pop Press (Facebook Instant Articles) with Todd Bishop",
+    "episode": "Season 1, Episode 13",
+    "date": "June 5, 2016",
     "carveOuts": [
       {
         "name": "The Startup Podcast Season 3",
@@ -14,10 +16,13 @@
         "name": "The Risk Not Taken",
         "link": "https://medium.com/@dunn/the-risk-not-taken-40cf0a8919cb#.8dznlr3zw"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-13-push-pop-press-facebook-instant-articles-with-todd-bishop"
   },
   {
     "title": "LinkedIn",
+    "episode": "Season 1, Episode 14",
+    "date": "June 16, 2016",
     "carveOuts": [
       {
         "name": "Jeff Bezos at Code 2016",
@@ -27,630 +32,741 @@
         "name": "Elon Musk at Code 2016",
         "link": "http://www.recode.net/2016/6/6/11840936/elon-musk-tesla-spacex-mars-full-video-code"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-14-linkedin"
   },
   {
     "title": "ExactTarget (acquired by Salesforce) with Scott Dorsey",
+    "episode": "Season 1, Episode 15",
+    "date": "July 5, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Talk Show live at WWDC 2016 with Phil Schiller & Craig Federighi",
-        "link": "http://daringfireball.net/thetalkshow/2016/06/17/ep-158"
+        "name": "The Talk Show live at WWDC 2016 with Phil Schiller & Craig Federighi",
+        "link": "http://daringfireball.net/thetalkshow/2016/06/17/ep-158",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Score Takes Care of Itself by legendary 49ers coach Bill Walsh, originally recommended by Jack Dorsey (no relation to Scott",
-        "link": "https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04"
+        "name": "The Score Takes Care of Itself by legendary 49ers coach Bill Walsh, originally recommended by Jack Dorsey (no relation to Scott",
+        "link": "https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04",
+        "carver": "David"
       },
       {
-        "name": "Scott",
-        "item": "2016 Scipps National Spelling Bee, including one of the finalists' favorite words",
-        "link": "http://spellingbee.com/"
+        "name": "2016 Scipps National Spelling Bee, including one of the finalists' favorite words",
+        "link": "http://spellingbee.com/",
+        "carver": "Scott"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/acquired-episode-15-exacttarget-acquired-by-salesforce-with-scott-dorsey"
   },
   {
     "title": "Midroll + Stitcher (acquired by Scripps)",
+    "episode": "Season 1, Episode 16",
+    "date": "July 12, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Mark Titus, AKA @ClubTrillion is joining the Ringer",
-        "link": "https://twitter.com/clubtrillion/status/750363071777046528/"
+        "name": "Mark Titus, AKA @ClubTrillion is joining the Ringer",
+        "link": "https://twitter.com/clubtrillion/status/750363071777046528/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "OKR's and regular goal setting, including great \"how to\" from",
-        "link": "https://en.wikipedia.org/wiki/OKR"
+        "name": "OKR's and regular goal setting, including great \"how to\" from",
+        "link": "https://en.wikipedia.org/wiki/OKR",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/acquired-episode-16-midroll-stitcher-acquired-by-scripps"
   },
   {
     "title": "Waze",
+    "episode": "Season 1, Episode 17",
+    "date": "August 3, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Weezer's \"Summer Elaine and Drunk Dori\" on Song Exploder",
-        "link": "http://songexploder.net/weezer"
+        "name": "Weezer's \"Summer Elaine and Drunk Dori\" on Song Exploder",
+        "link": "http://songexploder.net/weezer",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Simon Sinek's \"Start with Why\" TED Talk\n‍",
-        "link": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en"
+        "name": "Simon Sinek's \"Start with Why\" TED Talk\n‍",
+        "link": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/acquired-episode-17-waze"
   },
   {
     "title": "Special‚ An Acquirer's View into M&A with Taylor Barada, head of Corp Dev at Adobe",
+    "episode": "Season 1, Episode 18",
+    "date": "August 22, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Why the Concorde failed by Vox",
-        "link": "http://www.vox.com/2016/7/19/12195452/concorde-supersonic-flight-fail"
+        "name": "Why the Concorde failed by Vox",
+        "link": "http://www.vox.com/2016/7/19/12195452/concorde-supersonic-flight-fail",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Simone Biles, the greatest gymnast of all time",
-        "link": "https://en.wikipedia.org/wiki/Simone_Biles"
+        "name": "Simone Biles, the greatest gymnast of all time",
+        "link": "https://en.wikipedia.org/wiki/Simone_Biles",
+        "carver": "David"
       },
       {
-        "name": "Taylor",
-        "item": "Mindset by Carol Dweck, Shoe Dog by Phil Knight, Originals",
-        "link": "https://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck-ebook/dp/B000FCKPHG"
+        "name": "Mindset by Carol Dweck, Shoe Dog by Phil Knight, Originals",
+        "link": "https://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck-ebook/dp/B000FCKPHG",
+        "carver": "Taylor"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-18-specialan-acquirers-view-into-ma-with-taylor-barada-head-of-corp-dev-at-adobe"
   },
   {
     "title": "Jet",
+    "episode": "Season 1, Episode 19",
+    "date": "August 29, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Michael Mauboussin's Talk at Google and Reflections on the Ten Attributes of Great Investors after thirty years of honing his craft",
-        "link": "https://www.youtube.com/watch?v=1JLfqBsX5Lc"
+        "name": "Michael Mauboussin's Talk at Google and Reflections on the Ten Attributes of Great Investors after thirty years of honing his craft",
+        "link": "https://www.youtube.com/watch?v=1JLfqBsX5Lc",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Strava, the fantastic social fitness-tracking app",
-        "link": "https://www.strava.com/"
+        "name": "Strava, the fantastic social fitness-tracking app",
+        "link": "https://www.strava.com/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-19-jet"
   },
   {
     "title": "Android",
+    "episode": "Season 1, Episode 20",
+    "date": "September 16, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Business Adventures by John Brooks, Bill Gates' favorite business book",
-        "link": "https://www.amazon.com/Business-Adventures-Twelve-Classic-Street-ebook/dp/B00L1TPCKW"
+        "name": "Business Adventures by John Brooks, Bill Gates' favorite business book",
+        "link": "https://www.amazon.com/Business-Adventures-Twelve-Classic-Street-ebook/dp/B00L1TPCKW",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Ezra Edelman's fantastic 5-part ESPN documentary on O.J. Simpson, O.J.",
-        "link": "http://www.espn.com/30for30/ojsimpsonmadeinamerica/"
+        "name": "Ezra Edelman's fantastic 5-part ESPN documentary on O.J. Simpson, O.J.",
+        "link": "http://www.espn.com/30for30/ojsimpsonmadeinamerica/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-20-android"
   },
   {
     "title": "Inside the M&A Press with Bloomberg's Alex Sherman",
+    "episode": "Season 1, Episode 21",
+    "date": "September 27, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Phil of Drones' Burning Man 2016 recap video",
-        "link": "https://vimeo.com/182824721"
+        "name": "Phil of Drones' Burning Man 2016 recap video",
+        "link": "https://vimeo.com/182824721",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Algorithms to Live By by Brian Christian & Tom Griffiths",
-        "link": "https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI/ref=mt_kindle?_encoding=UTF8&me="
+        "name": "Algorithms to Live By by Brian Christian & Tom Griffiths",
+        "link": "https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI/ref=mt_kindle?_encoding=UTF8&me=",
+        "carver": "David"
       },
       {
-        "name": "Alex",
-        "item": "Clinton's Samantha Bee Problem, by Ross Douthat in the NYT Opinion Pages",
-        "link": "http://www.nytimes.com/2016/09/21/opinion/campaign-stops/clintons-samantha-bee-problem.html"
+        "name": "Clinton's Samantha Bee Problem, by Ross Douthat in the NYT Opinion Pages",
+        "link": "http://www.nytimes.com/2016/09/21/opinion/campaign-stops/clintons-samantha-bee-problem.html",
+        "carver": "Alex"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-21-inside-the-ma-press-with-bloombergs-alex-sherman"
   },
   {
     "title": "Zillow + Trulia with Zillow Group CFO Kathleen Philips",
+    "episode": "Season 1, Episode 22",
+    "date": "October 13, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Marvel Symphonic Universe",
-        "link": "https://www.youtube.com/watch?v=7vfqkvwW2fs"
+        "name": "The Marvel Symphonic Universe",
+        "link": "https://www.youtube.com/watch?v=7vfqkvwW2fs",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Shoe Dog by Phil Knight",
-        "link": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/"
+        "name": "Shoe Dog by Phil Knight",
+        "link": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/",
+        "carver": "David"
       },
       {
-        "name": "Kathleen",
-        "item": "",
-        "link": null
+        "name": "",
+        "link": null,
+        "carver": "Kathleen"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-22-zillow-trulia-with-zillow-group-cfo-kathleen-philips"
   },
   {
     "title": "NeXT (Live show at the GeekWire Summit)",
+    "episode": "Season 1, Episode 23",
+    "date": "October 23, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Stewart Butterfield (Cofounder/CEO of Slack) on the The Ezra Klein Show",
-        "link": "https://www.producthunt.com/podcasts/the-ezra-klein-show-stewart-butterfield"
+        "name": "Stewart Butterfield (Cofounder/CEO of Slack) on the The Ezra Klein Show",
+        "link": "https://www.producthunt.com/podcasts/the-ezra-klein-show-stewart-butterfield",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "DJI and the Rise of the Robomasters",
-        "link": "http://www.theverge.com/2016/9/27/13059144/dji-robomasters-robot-drone-battle-video-frank-wang-interview"
+        "name": "DJI and the Rise of the Robomasters",
+        "link": "http://www.theverge.com/2016/9/27/13059144/dji-robomasters-robot-drone-battle-video-frank-wang-interview",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-23-next-live-show-at-the-geekwire-summit"
   },
   {
     "title": "Skype",
+    "episode": "Season 1, Episode 24",
+    "date": "November 1, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Sam Altman's Manifest Destiny",
-        "link": "http://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny"
+        "name": "Sam Altman's Manifest Destiny",
+        "link": "http://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "SOMA the Musical starring our very own Acquired listener, the brilliant and talented Jake Saper!",
-        "link": "http://venturebeat.com/2016/10/20/south-of-market-the-musical-perfectly-mocks-tech-industry-egos/"
+        "name": "SOMA the Musical starring our very own Acquired listener, the brilliant and talented Jake Saper!",
+        "link": "http://venturebeat.com/2016/10/20/south-of-market-the-musical-perfectly-mocks-tech-industry-egos/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-24-skype"
   },
   {
     "title": "The Facebook IPO",
+    "episode": "Season 1, Episode 25",
+    "date": "November 11, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Amazon employee #1 Shel Kaphan on the great Internet History Podcast",
-        "link": "http://www.internethistorypodcast.com/2015/02/amazon-technical-co-founder-and-employee-1-shel-kaphan/"
+        "name": "Amazon employee #1 Shel Kaphan on the great Internet History Podcast",
+        "link": "http://www.internethistorypodcast.com/2015/02/amazon-technical-co-founder-and-employee-1-shel-kaphan/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Connectography",
-        "link": "https://www.amazon.com/Connectography-Mapping-Future-Global-Civilization-ebook/dp/B015VABIRC"
+        "name": "Connectography",
+        "link": "https://www.amazon.com/Connectography-Mapping-Future-Global-Civilization-ebook/dp/B015VABIRC",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-25-the-facebook-ipo"
   },
   {
     "title": "Marvel",
+    "episode": "Season 1, Episode 26",
+    "date": "December 5, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Westworld",
-        "link": "http://www.hbo.com/westworld"
+        "name": "Westworld",
+        "link": "http://www.hbo.com/westworld",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Overdrive",
-        "link": "http://app.overdrive.com/"
+        "name": "Overdrive",
+        "link": "http://app.overdrive.com/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-25-marvel"
   },
   {
     "title": "Special: Conversation with Microsoft's Head of Strategic Investments Brian Schultz",
+    "episode": "Season 1, Episode 27",
+    "date": "December 16, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "OK Go - The One Moment",
-        "link": "http://okgo.net/2016/11/23/the-one-moment/"
+        "name": "OK Go - The One Moment",
+        "link": "http://okgo.net/2016/11/23/the-one-moment/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "UC Berkeley Oral History with Sequoia Capital founder Don Valentine",
-        "link": "http://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf"
+        "name": "UC Berkeley Oral History with Sequoia Capital founder Don Valentine",
+        "link": "http://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf",
+        "carver": "David"
       },
       {
-        "name": "Brian",
-        "item": "Om Malik's recent piece in the New Yorker",
-        "link": null
+        "name": "Om Malik's recent piece in the New Yorker",
+        "link": null,
+        "carver": "Brian"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-27-speciala-conversation-with-microsofts-head-of-strategic-investments-brian-schultz"
   },
   {
     "title": "The Amazon IPO with original Amazon Board Member Tom Alberg",
+    "episode": "Season 1, Episode 28",
+    "date": "December 31, 2016",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "the band The Album Leaf",
-        "link": "http://thealbumleaf.com/fullsite/"
+        "name": "the band The Album Leaf",
+        "link": "http://thealbumleaf.com/fullsite/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Cormac McCarthy (author of All the Pretty Horses, No Country for Old Men, etc)'s contribution to W. Brian Arthur's landmark paper about the economics of the internet, \"Increasing Returns and the New World of Business\"",
-        "link": "https://andrewbatson.com/2016/12/13/cormac-mccarthys-contribution-to-the-theory-of-increasing-returns/"
+        "name": "Cormac McCarthy (author of All the Pretty Horses, No Country for Old Men, etc)'s contribution to W. Brian Arthur's landmark paper about the economics of the internet, \"Increasing Returns and the New World of Business\"",
+        "link": "https://andrewbatson.com/2016/12/13/cormac-mccarthys-contribution-to-the-theory-of-increasing-returns/",
+        "carver": "David"
       },
       {
-        "name": "Tom",
-        "item": "Michael Lewis's latest book The Undoing Project, chronicling the Nobel Prize winning partnership between Daniel Kahneman & Amos Tversky in developing the field of behavioral economics",
-        "link": "https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds-ebook/dp/B01GI6S7EK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        "name": "Michael Lewis's latest book The Undoing Project, chronicling the Nobel Prize winning partnership between Daniel Kahneman & Amos Tversky in developing the field of behavioral economics",
+        "link": "https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds-ebook/dp/B01GI6S7EK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "carver": "Tom"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-28-the-amazon-ipo-with-original-amazon-board-member-tom-alberg"
   },
   {
     "title": "Special: 2016 Review and 2017 Predictions",
+    "episode": "Season 1, Episode 29",
+    "date": "January 11, 2017",
     "carveOuts": [
       {
-        "name": "Books",
-        "item": "Ben",
-        "link": "https://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/ref=mt_kindle?_encoding=UTF8&me="
+        "name": "Ben",
+        "link": "https://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/ref=mt_kindle?_encoding=UTF8&me=",
+        "carver": "Books"
       },
       {
-        "name": "Article",
-        "item": "Ben",
-        "link": "http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html"
+        "name": "Ben",
+        "link": "http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html",
+        "carver": "Article"
       },
       {
-        "name": "Podcasts",
-        "item": "Both",
-        "link": "https://itunes.apple.com/us/podcast/the-ezra-klein-show/id1081584611?mt=2"
+        "name": "Both",
+        "link": "https://itunes.apple.com/us/podcast/the-ezra-klein-show/id1081584611?mt=2",
+        "carver": "Podcasts"
       },
       {
-        "name": "Music",
-        "item": "Ben",
-        "link": "https://en.wikipedia.org/wiki/Justin_Bieber"
+        "name": "Ben",
+        "link": "https://en.wikipedia.org/wiki/Justin_Bieber",
+        "carver": "Music"
       },
       {
-        "name": "TV/Movies",
-        "item": "Ben",
-        "link": "http://www.imdb.com/title/tt0475784/"
+        "name": "Ben",
+        "link": "http://www.imdb.com/title/tt0475784/",
+        "carver": "TV/Movies"
       },
       {
-        "name": "Apps",
-        "item": "Ben",
-        "link": "http://reachnow.com/"
+        "name": "Ben",
+        "link": "http://reachnow.com/",
+        "carver": "Apps"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-29-special2016-review-and-2017-predictions"
   },
   {
     "title": "P.A. Semi + AuthenTec",
+    "episode": "Season 1, Episode 30",
+    "date": "January 24, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Rands in Repose",
-        "link": "http://randsinrepose.com/archives/the-situation/"
+        "name": "Rands in Repose",
+        "link": "http://randsinrepose.com/archives/the-situation/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Daily Rituals",
-        "link": "https://www.amazon.com/Daily-Rituals-How-Artists-Work/dp/0307273601"
+        "name": "Daily Rituals",
+        "link": "https://www.amazon.com/Daily-Rituals-How-Artists-Work/dp/0307273601",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-30-pa-semi-authentec"
   },
   {
     "title": "The Uber - Didi Chuxing Merger with Brad Stone, author of The Upstarts & The Everything Store",
+    "episode": "Season 1, Episode 31",
+    "date": "February 8, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Taming the Mammoth on Wait But Why",
-        "link": "http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html"
+        "name": "Taming the Mammoth on Wait But Why",
+        "link": "http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Conversations with Tyler Podcast by Tyler Cowen, co-author of the Marginal Revolution blog",
-        "link": "https://itunes.apple.com/us/podcast/conversations-with-tyler/id983795625?mt=2"
+        "name": "Conversations with Tyler Podcast by Tyler Cowen, co-author of the Marginal Revolution blog",
+        "link": "https://itunes.apple.com/us/podcast/conversations-with-tyler/id983795625?mt=2",
+        "carver": "David"
       },
       {
-        "name": "Brad",
-        "item": "Yuval Noah Harari (author of Sapiens)'s new book,",
-        "link": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A"
+        "name": "Yuval Noah Harari (author of Sapiens)'s new book,",
+        "link": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A",
+        "carver": "Brad"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-31-the-uber-didi-chuxing-merger-with-brad-stone-author-of-the-upstarts-the-everything-store"
   },
   {
     "title": "The Snap Inc. IPO",
+    "episode": "Season 1, Episode 32",
+    "date": "March 4, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Bill Simmons Podcast with Ben Thompson",
-        "link": "https://itunes.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?mt=2"
+        "name": "The Bill Simmons Podcast with Ben Thompson",
+        "link": "https://itunes.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?mt=2",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Art of War, also Evan Spiegel's Carve Out for 2013",
-        "link": "https://www.amazon.com/Art-War-Sun-Tzu-ebook/dp/B009XH5V6Y"
+        "name": "The Art of War, also Evan Spiegel's Carve Out for 2013",
+        "link": "https://www.amazon.com/Art-War-Sun-Tzu-ebook/dp/B009XH5V6Y",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-32-the-snap-inc-ipo"
   },
   {
     "title": "Overture (with the Internet History Podcast!)",
+    "episode": "Season 1, Episode 33",
+    "date": "March 13, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The famous University of Washington's \"Love Lab\" Dr. John Gottman",
-        "link": "https://en.wikipedia.org/wiki/John_Gottman"
+        "name": "The famous University of Washington's \"Love Lab\" Dr. John Gottman",
+        "link": "https://en.wikipedia.org/wiki/John_Gottman",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Berlin",
-        "link": "https://en.wikipedia.org/wiki/Berlin"
+        "name": "Berlin",
+        "link": "https://en.wikipedia.org/wiki/Berlin",
+        "carver": "David"
       },
       {
-        "name": "Brian",
-        "item": "The Dark Valley",
-        "link": "https://www.amazon.com/Dark-Valley-Panorama-1930s-ebook/dp/B000XUBD8U/"
+        "name": "The Dark Valley",
+        "link": "https://www.amazon.com/Dark-Valley-Panorama-1930s-ebook/dp/B000XUBD8U/",
+        "carver": "Brian"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-33-overture-with-the-internet-history-podcast"
   },
   {
     "title": "Starbucks IPO with Dan Levitan",
+    "episode": "Season 1, Episode 34",
+    "date": "April 3, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Dan Primack's new daily newsletter, Pro Rata",
-        "link": "https://www.axios.com/pro-rata-friday-2336830876.html"
+        "name": "Dan Primack's new daily newsletter, Pro Rata",
+        "link": "https://www.axios.com/pro-rata-friday-2336830876.html",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Wizard and the Bruiser podcast",
-        "link": "https://itunes.apple.com/us/podcast/wizard-and-the-bruiser/id1153017150?mt=2"
+        "name": "The Wizard and the Bruiser podcast",
+        "link": "https://itunes.apple.com/us/podcast/wizard-and-the-bruiser/id1153017150?mt=2",
+        "carver": "David"
       },
       {
-        "name": "Dan",
-        "item": "The Man in the Glass",
-        "link": "http://www.inspirationpeak.com/cgi-bin/poetry.cgi?record=155"
+        "name": "The Man in the Glass",
+        "link": "http://www.inspirationpeak.com/cgi-bin/poetry.cgi?record=155",
+        "carver": "Dan"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-34-starbucks-ipo-with-dan-levitan"
   },
   {
     "title": "Oculus",
+    "episode": "Season 1, Episode 35",
+    "date": "April 11, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Kara Swisher interviews the Pod Save America team at SXSW",
-        "link": "https://art19.com/shows/pod-save-america/episodes/ec7a330f-0489-46ec-b27e-b8e61a65daa7"
+        "name": "Kara Swisher interviews the Pod Save America team at SXSW",
+        "link": "https://art19.com/shows/pod-save-america/episodes/ec7a330f-0489-46ec-b27e-b8e61a65daa7",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Adam Gopnik asks Are Liberals on the Wrong Side of History?",
-        "link": "http://www.newyorker.com/magazine/2017/03/20/are-liberals-on-the-wrong-side-of-history"
+        "name": "Adam Gopnik asks Are Liberals on the Wrong Side of History?",
+        "link": "http://www.newyorker.com/magazine/2017/03/20/are-liberals-on-the-wrong-side-of-history",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-35-oculus"
   },
   {
     "title": "The LA Clippers",
+    "episode": "Season 1, Episode 36",
+    "date": "April 23, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Bill Gurley on This Week in Startups",
-        "link": "http://thisweekinstartups.com/bill-gurley-benchmark/"
+        "name": "Bill Gurley on This Week in Startups",
+        "link": "http://thisweekinstartups.com/bill-gurley-benchmark/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Pop, Race & the '60s podcast and Just Around Midnight by Jack Hamilton",
-        "link": "https://slate.janrainsso.com//static/server.html?origin=http%3A%2F%2Fwww.slate.com%2Farticles%2Farts%2Fpop_race_and_the_60s%2F2016%2F09%2Fjack_hamilton_presents_pop_race_and_the_60s_a_slate_academy.html"
+        "name": "Pop, Race & the '60s podcast and Just Around Midnight by Jack Hamilton",
+        "link": "https://slate.janrainsso.com//static/server.html?origin=http%3A%2F%2Fwww.slate.com%2Farticles%2Farts%2Fpop_race_and_the_60s%2F2016%2F09%2Fjack_hamilton_presents_pop_race_and_the_60s_a_slate_academy.html",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-36-the-la-clippers"
   },
   {
     "title": "BAMTech, Disney and \"the Biggest Media Company You've Never Heard Of\"",
+    "episode": "Season 1, Episode 37",
+    "date": "May 10, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "NYT's 4th Down Bot",
-        "link": "https://twitter.com/nyt4thdownbot"
+        "name": "NYT's 4th Down Bot",
+        "link": "https://twitter.com/nyt4thdownbot",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Wait But Why on Elon Musk's \"Wizard Hat\"",
-        "link": "http://waitbutwhy.com/2017/04/neuralink.html"
+        "name": "Wait But Why on Elon Musk's \"Wizard Hat\"",
+        "link": "http://waitbutwhy.com/2017/04/neuralink.html",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-37-bamtech-disney-and-the-biggest-media-company-youve-never-heard-of"
   },
   {
     "title": "SoundJam (iTunes)",
+    "episode": "Season 1, Episode 38",
+    "date": "May 31, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Internet History Podcast on The Napster Story, with Jordan Ritter",
-        "link": "http://www.internethistorypodcast.com/2017/04/the-napster-story-with-jordan-ritter/"
+        "name": "The Internet History Podcast on The Napster Story, with Jordan Ritter",
+        "link": "http://www.internethistorypodcast.com/2017/04/the-napster-story-with-jordan-ritter/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Israel",
-        "link": "https://en.wikipedia.org/wiki/Israel"
+        "name": "Israel",
+        "link": "https://en.wikipedia.org/wiki/Israel",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-38-soundjam-itunes"
   },
   {
     "title": "Whole Foods Market",
+    "episode": "Season 1, Episode 39",
+    "date": "June 20, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Mark Zuckerberg's 2005 CS50 guest lecture",
-        "link": "https://www.youtube.com/watch?v=xFFs9UgOAlE"
+        "name": "Mark Zuckerberg's 2005 CS50 guest lecture",
+        "link": "https://www.youtube.com/watch?v=xFFs9UgOAlE",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Exponent on Podcasting and Centralization",
-        "link": "http://exponent.fm/episode-118-podcasting-and-centralization/"
+        "name": "Exponent on Podcasting and Centralization",
+        "link": "http://exponent.fm/episode-118-podcasting-and-centralization/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-39-whole-foods-market"
   },
   {
     "title": "Activision Blizzard",
+    "episode": "Season 1, Episode 40",
+    "date": "July 12, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Dick Costolo on Vanity Fair's Inside the Hive podcast",
-        "link": "http://www.vanityfair.com/news/2017/06/dick-costolo-twitter-trump"
+        "name": "Dick Costolo on Vanity Fair's Inside the Hive podcast",
+        "link": "http://www.vanityfair.com/news/2017/06/dick-costolo-twitter-trump",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Nellie and Joe's 100% Natural Key Lime Juice (tip",
-        "link": "https://www.amazon.com/Nellie-Joes-100-Juice-glass/dp/B00142EXG0/?th=1"
+        "name": "Nellie and Joe's 100% Natural Key Lime Juice (tip",
+        "link": "https://www.amazon.com/Nellie-Joes-100-Juice-glass/dp/B00142EXG0/?th=1",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-40-activision-blizzard"
   },
   {
     "title": "Booking.com with Jetsetter & Room 77 CEO Drew Patterson",
+    "episode": "Season 1, Episode 41",
+    "date": "July 25, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Scott Forstall talking about the original iPhone at the Computer History Museum",
-        "link": "https://www.youtube.com/watch?v=zjR2vegUBAo"
+        "name": "Scott Forstall talking about the original iPhone at the Computer History Museum",
+        "link": "https://www.youtube.com/watch?v=zjR2vegUBAo",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Big Sick",
-        "link": "https://www.rottentomatoes.com/m/the_big_sick/"
+        "name": "The Big Sick",
+        "link": "https://www.rottentomatoes.com/m/the_big_sick/",
+        "carver": "David"
       },
       {
-        "name": "Drew",
-        "item": "Bloomberg's Money Stuff by Matt Levine",
-        "link": "https://www.bloomberg.com/view/topics/money-stuff"
+        "name": "Bloomberg's Money Stuff by Matt Levine",
+        "link": "https://www.bloomberg.com/view/topics/money-stuff",
+        "carver": "Drew"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson"
   },
   {
     "title": "Opsware (with special guest Michel Feaster)",
+    "episode": "Season 1, Episode 42",
+    "date": "August 4, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "StarStaX star trail photography software",
-        "link": "http://www.markus-enzweiler.de/StarStaX/StarStaX.html"
+        "name": "StarStaX star trail photography software",
+        "link": "http://www.markus-enzweiler.de/StarStaX/StarStaX.html",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Jimmy Iovine on the Bill Simmons Podcast",
-        "link": "https://soundcloud.com/the-bill-simmons-podcast/rockets-gm-daryl-morey-and-music-legend-jimmy-iovine-ep-233"
+        "name": "Jimmy Iovine on the Bill Simmons Podcast",
+        "link": "https://soundcloud.com/the-bill-simmons-podcast/rockets-gm-daryl-morey-and-music-legend-jimmy-iovine-ep-233",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-42-opsware-with-special-guest-michel-feaster"
   },
   {
     "title": "The Square IPO",
+    "episode": "Season 1, Episode 43",
+    "date": "August 16, 2017",
     "carveOuts": [
       {
-        "name": "David",
-        "item": "Bob Iger on Nick Bilton's Inside the Hive podcast",
-        "link": "https://itunes.apple.com/us/podcast/inside-the-hive-with-nick-bilton/id1232383877?mt=2"
+        "name": "Bob Iger on Nick Bilton's Inside the Hive podcast",
+        "link": "https://itunes.apple.com/us/podcast/inside-the-hive-with-nick-bilton/id1232383877?mt=2",
+        "carver": "David"
       },
       {
-        "name": "Ben",
-        "item": "The World After Capital on GitBooks",
-        "link": "https://www.gitbook.com/book/worldaftercapital/worldaftercapital/details"
+        "name": "The World After Capital on GitBooks",
+        "link": "https://www.gitbook.com/book/worldaftercapital/worldaftercapital/details",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-43-the-square-ipo"
   },
   {
     "title": "AOL - Time Warner (with the Internet History Podcast)",
+    "episode": "Season 1, Episode 44",
+    "date": "September 17, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Give and Take by Adam Grant",
-        "link": "https://www.amazon.com/Give-Take-Revolutionary-Approach-Success/dp/B00BMBANYY/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr="
+        "name": "Give and Take by Adam Grant",
+        "link": "https://www.amazon.com/Give-Take-Revolutionary-Approach-Success/dp/B00BMBANYY/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Season of the Witch by David Talbot",
-        "link": "https://www.amazon.com/dp/B005C6FDFY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+        "name": "Season of the Witch by David Talbot",
+        "link": "https://www.amazon.com/dp/B005C6FDFY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "carver": "David"
       },
       {
-        "name": "Brian",
-        "item": "A Mind at Play",
-        "link": "https://www.amazon.com/dp/B01M5IJN1P/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+        "name": "A Mind at Play",
+        "link": "https://www.amazon.com/dp/B01M5IJN1P/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "carver": "Brian"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-44-aol-time-warner-with-the-internet-history-podcast"
   },
   {
     "title": "HTC, Google and the Future of Mobile",
+    "episode": "Season 1, Episode 45",
+    "date": "September 21, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Odesza's new album A Moment Apart",
-        "link": "https://pitchfork.com/reviews/albums/odesza-a-moment-apart/"
+        "name": "Odesza's new album A Moment Apart",
+        "link": "https://pitchfork.com/reviews/albums/odesza-a-moment-apart/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Bruce Springsteen on Fresh Air",
-        "link": "http://www.npr.org/2017/09/15/551112185/bruce-springsteen-on-jersey-masculinity-and-wishing-to-be-his-stage-persona"
+        "name": "Bruce Springsteen on Fresh Air",
+        "link": "http://www.npr.org/2017/09/15/551112185/bruce-springsteen-on-jersey-masculinity-and-wishing-to-be-his-stage-persona",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-45-htc-google-and-the-future-of-mobile"
   },
   {
     "title": "Blue Bottle Coffee",
+    "episode": "Season 1, Episode 46",
+    "date": "October 7, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "There Never Was a Real Tulip Fever",
-        "link": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+        "name": "There Never Was a Real Tulip Fever",
+        "link": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "the small joys of the iPhone SE",
-        "link": "https://www.apple.com/iphone-se/"
+        "name": "the small joys of the iPhone SE",
+        "link": "https://www.apple.com/iphone-se/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-46blue-bottle-coffee"
   },
   {
     "title": "The Atlassian IPO",
+    "episode": "Season 1, Episode 47",
+    "date": "November 6, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Phil Knight's memoir, Shoe Dog",
-        "link": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        "name": "Phil Knight's memoir, Shoe Dog",
+        "link": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Bruce Springsteen memoir, Born to Run",
-        "link": "https://www.amazon.com/Born-Run-Bruce-Springsteen-ebook/dp/B01BNSK4V2/ref=sr_1_1?ie=UTF8&qid=1510010902&sr=8-1&keywords=born+to+run+book"
+        "name": "Bruce Springsteen memoir, Born to Run",
+        "link": "https://www.amazon.com/Born-Run-Bruce-Springsteen-ebook/dp/B01BNSK4V2/ref=sr_1_1?ie=UTF8&qid=1510010902&sr=8-1&keywords=born+to+run+book",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-47the-atlassian-ipo"
   },
   {
     "title": "Qualcomm - Broadcom",
+    "episode": "Season 1, Episode 48",
+    "date": "November 20, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The de-watering of Niagara Falls",
-        "link": "http://www.niagarafrontier.com/dewater.html"
+        "name": "The de-watering of Niagara Falls",
+        "link": "http://www.niagarafrontier.com/dewater.html",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Big Daddy's Antiques",
-        "link": "https://www.bdantiques.com/"
+        "name": "Big Daddy's Antiques",
+        "link": "https://www.bdantiques.com/",
+        "carver": "David"
       },
       {
-        "name": "Bonus",
-        "item": "The Mystery Show",
-        "link": "https://gimletmedia.com/mystery-show/"
+        "name": "The Mystery Show",
+        "link": "https://gimletmedia.com/mystery-show/",
+        "carver": "Bonus"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-48qualcomm-broadcom"
   },
   {
     "title": "The Stitch Fix IPO",
+    "episode": "Season 1, Episode 49",
+    "date": "December 4, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The iPhone X",
-        "link": "https://www.apple.com/iphone-x/"
+        "name": "The iPhone X",
+        "link": "https://www.apple.com/iphone-x/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Coach Wooden and Me",
-        "link": "https://www.amazon.com/Coach-Wooden-Me-50-Year-Friendship-ebook/dp/B01LYJI4UO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        "name": "Coach Wooden and Me",
+        "link": "https://www.amazon.com/Coach-Wooden-Me-50-Year-Friendship-ebook/dp/B01LYJI4UO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-49the-stitch-fix-ipo"
   },
   {
     "title": "Apple - Beats",
+    "episode": "Season 1, Episode 50",
+    "date": "December 11, 2017",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "HQ",
-        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjzyM6FnoLYAhVM1GMKHaNgAu8QFgg6MAM&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fhq-live-trivia-game-show%2Fid1232278996%3Fmt%3D8&usg=AOvVaw3HLvvSkwxEfqhm7-1aua37"
+        "name": "HQ",
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjzyM6FnoLYAhVM1GMKHaNgAu8QFgg6MAM&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fhq-live-trivia-game-show%2Fid1232278996%3Fmt%3D8&usg=AOvVaw3HLvvSkwxEfqhm7-1aua37",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Wooden on Leadership",
-        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwikg5-ZnoLYAhUW8mMKHVQdC-oQFggoMAA&url=https%3A%2F%2Fwww.amazon.com%2FWooden-Leadership-Create-Winning-Organizaion-ebook%2Fdp%2FB000SEHJHK&usg=AOvVaw302TGF47TB2vNrELx7WIpl"
+        "name": "Wooden on Leadership",
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwikg5-ZnoLYAhUW8mMKHVQdC-oQFggoMAA&url=https%3A%2F%2Fwww.amazon.com%2FWooden-Leadership-Create-Winning-Organizaion-ebook%2Fdp%2FB000SEHJHK&usg=AOvVaw302TGF47TB2vNrELx7WIpl",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/episode-50-apple-beats"
   },
   {
     "title": "2017 Holiday Special",
+    "episode": "Season 1, Episode 51",
+    "date": "December 18, 2017",
     "carveOuts": [
       {
         "name": "Books",
@@ -732,524 +848,629 @@
         "name": "HQ",
         "link": "https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/ettzkg3lujvlpbh9hq397jrvip0dkx"
   },
   {
     "title": "Zappos (with Alfred Lin)",
+    "episode": "Season 2, Episode 1",
+    "date": "January 22, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Andrew Mason on Recode Decode",
-        "link": "https://www.recode.net/2017/12/13/16770838/groupon-ceo-andrew-mason-descript-audio-startup-recording-word-processor-recode-decode"
+        "name": "Andrew Mason on Recode Decode",
+        "link": "https://www.recode.net/2017/12/13/16770838/groupon-ceo-andrew-mason-descript-audio-startup-recording-word-processor-recode-decode",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Justin O'Beirne on Google Maps' Moat",
-        "link": "https://www.justinobeirne.com/google-maps-moat/"
+        "name": "Justin O'Beirne on Google Maps' Moat",
+        "link": "https://www.justinobeirne.com/google-maps-moat/",
+        "carver": "David"
       },
       {
-        "name": "Alfred",
-        "item": "Walter Isaacson's biographies of Albert Einstein and Benjamin Franklin",
-        "link": "https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson-ebook/dp/B000PC0S0K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        "name": "Walter Isaacson's biographies of Albert Einstein and Benjamin Franklin",
+        "link": "https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson-ebook/dp/B000PC0S0K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "carver": "Alfred"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-1zappos-with-alfred-lin"
   },
   {
     "title": "Raising a Seed Round with Against Gravity CEO Nick Fajt",
+    "episode": "Season 2, Episode 2",
+    "date": "February 6, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Ready Player One",
-        "link": "https://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ"
+        "name": "Ready Player One",
+        "link": "https://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Seveneves",
-        "link": "https://www.amazon.com/Seveneves-Novel-Neal-Stephenson-ebook/dp/B00LZWV8JO/"
+        "name": "Seveneves",
+        "link": "https://www.amazon.com/Seveneves-Novel-Neal-Stephenson-ebook/dp/B00LZWV8JO/",
+        "carver": "David"
       },
       {
-        "name": "Nick",
-        "item": "The Legend of Zelda",
-        "link": "https://www.zelda.com/breath-of-the-wild/"
+        "name": "The Legend of Zelda",
+        "link": "https://www.zelda.com/breath-of-the-wild/",
+        "carver": "Nick"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-2raising-a-seed-round-with-against-gravity-ceo-nick-fajt"
   },
   {
     "title": "Nest",
+    "episode": "Season 2, Episode 3",
+    "date": "February 19, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Do by Friday podcast",
-        "link": "http://dobyfriday.com/"
+        "name": "Do by Friday podcast",
+        "link": "http://dobyfriday.com/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "A Kingdom from Dust By Mark Arax in The California Sunday Magazine",
-        "link": "https://story.californiasunday.com/resnick-a-kingdom-from-dust"
+        "name": "A Kingdom from Dust By Mark Arax in The California Sunday Magazine",
+        "link": "https://story.californiasunday.com/resnick-a-kingdom-from-dust",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-3nest"
   },
   {
     "title": "SoftBank, Fortress and the Vision Fund",
+    "episode": "Season 2, Episode 4",
+    "date": "March 22, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "eBoys",
-        "link": "https://www.amazon.com/eBoys-Inside-Account-Venture-Capitalists-ebook/dp/B000FC1HTG/"
+        "name": "eBoys",
+        "link": "https://www.amazon.com/eBoys-Inside-Account-Venture-Capitalists-ebook/dp/B000FC1HTG/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Liu Cixin's Remembrance of Earth's Past trilogy (starting with The Three-Body Problem)",
-        "link": "https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K"
+        "name": "Liu Cixin's Remembrance of Earth's Past trilogy (starting with The Three-Body Problem)",
+        "link": "https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K",
+        "carver": "David"
       },
       {
-        "name": "Bonus",
-        "item": "shout out to Brian McCullough's new podcast the Ride Home, in partnership with TechMeme!",
-        "link": "https://itunes.apple.com/us/podcast/techmeme-ride-home/id1355212895?mt=2"
+        "name": "shout out to Brian McCullough's new podcast the Ride Home, in partnership with TechMeme!",
+        "link": "https://itunes.apple.com/us/podcast/techmeme-ride-home/id1355212895?mt=2",
+        "carver": "Bonus"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-4softbank-fortress-and-the-vision-fund"
   },
   {
     "title": "The Dropbox IPO",
+    "episode": "Season 2, Episode 5",
+    "date": "March 25, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Raytracing comes to DirectX",
-        "link": "https://arstechnica.com/gadgets/2018/03/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/"
+        "name": "Raytracing comes to DirectX",
+        "link": "https://arstechnica.com/gadgets/2018/03/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Lazy Game Reviews",
-        "link": "https://www.youtube.com/watch?v=CR-IuEAJpWc&feature=youtu.be"
+        "name": "Lazy Game Reviews",
+        "link": "https://www.youtube.com/watch?v=CR-IuEAJpWc&feature=youtu.be",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-5the-dropbox-ipo"
   },
   {
     "title": "Spotify's Direct Listing",
+    "episode": "Season 2, Episode 6",
+    "date": "April 5, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Black Panther (and soundtrack on Spotify!)",
-        "link": "http://www.imdb.com/title/tt1825683/"
+        "name": "Black Panther (and soundtrack on Spotify!)",
+        "link": "http://www.imdb.com/title/tt1825683/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "\"Silicon Ballet\" panel at San Francisco Ballet on Saturday, April 28",
-        "link": "https://www.sfballet.org/boundless"
+        "name": "\"Silicon Ballet\" panel at San Francisco Ballet on Saturday, April 28",
+        "link": "https://www.sfballet.org/boundless",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-6spotifys-direct-listing"
   },
   {
     "title": "PowerPoint",
+    "episode": "Season 2, Episode 7",
+    "date": "May 4, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Mindfulness in Plain English and discussion on Hacker News",
-        "link": "https://www.amazon.com/dp/B003XF1LKW/"
+        "name": "Mindfulness in Plain English and discussion on Hacker News",
+        "link": "https://www.amazon.com/dp/B003XF1LKW/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Birds have landed...",
-        "link": "https://www.nytimes.com/2018/04/20/technology/electric-scooters-are-causing-havoc-this-man-is-shrugging-it-off.html"
+        "name": "The Birds have landed...",
+        "link": "https://www.nytimes.com/2018/04/20/technology/electric-scooters-are-causing-havoc-this-man-is-shrugging-it-off.html",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-7powerpoint"
   },
   {
     "title": "T-Mobile / Sprint",
+    "episode": "Season 2, Episode 8",
+    "date": "May 21, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Andrew Chen on the Intercom podcast",
-        "link": "https://blog.intercom.com/andrew-chen-on-growth/"
+        "name": "Andrew Chen on the Intercom podcast",
+        "link": "https://blog.intercom.com/andrew-chen-on-growth/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The 996 Podcast from Zara & Hans at GGV Capital",
-        "link": "https://996.ggvc.com/category/podcast/"
+        "name": "The 996 Podcast from Zara & Hans at GGV Capital",
+        "link": "https://996.ggvc.com/category/podcast/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-8t-mobile-sprint"
   },
   {
     "title": "GitHub",
+    "episode": "Season 2, Episode 9",
+    "date": "June 5, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Idea Maze by Chris Dixon",
-        "link": "http://cdixon.org/2013/08/04/the-idea-maze/"
+        "name": "The Idea Maze by Chris Dixon",
+        "link": "http://cdixon.org/2013/08/04/the-idea-maze/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Invisible Asymptotes by Eugene Wei",
-        "link": "http://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"
+        "name": "Invisible Asymptotes by Eugene Wei",
+        "link": "http://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-2-episode-9github"
   },
   {
     "title": "Tesla",
+    "episode": "Season 3, Episode 1",
+    "date": "July 16, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Dissect podcast",
-        "link": "https://dissectpodcast.com/"
+        "name": "The Dissect podcast",
+        "link": "https://dissectpodcast.com/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Harry Potter and the Sacred Text podcast",
-        "link": "http://www.harrypottersacredtext.com/"
+        "name": "Harry Potter and the Sacred Text podcast",
+        "link": "http://www.harrypottersacredtext.com/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-1tesla"
   },
   {
     "title": "The Sonos IPO",
+    "episode": "Season 3, Episode 3",
+    "date": "August 20, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Andy Rachleff on the Invest like the Best podcast",
-        "link": "http://investorfieldguide.com/andy/"
+        "name": "Andy Rachleff on the Invest like the Best podcast",
+        "link": "http://investorfieldguide.com/andy/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Brotopia by Emily Chang",
-        "link": "https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley-ebook/dp/B074LQKJJC"
+        "name": "Brotopia by Emily Chang",
+        "link": "https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley-ebook/dp/B074LQKJJC",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-3the-sonos-ipo"
   },
   {
     "title": "Alibaba",
+    "episode": "Season 3, Episode 5",
+    "date": "September 23, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Mike Maples on the Origins podcast",
-        "link": "https://overcast.fm/+Gj5UPIb5w"
+        "name": "Mike Maples on the Origins podcast",
+        "link": "https://overcast.fm/+Gj5UPIb5w",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Romance of the Three Kingdoms",
-        "link": "https://www.amazon.com/Three-Kingdoms-Chinese-Loyalty-Translation-ebook/dp/B00JIDTFRO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537662602&sr=1-1&keywords=romance+of+the+three+kingdoms"
+        "name": "Romance of the Three Kingdoms",
+        "link": "https://www.amazon.com/Three-Kingdoms-Chinese-Loyalty-Translation-ebook/dp/B00JIDTFRO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537662602&sr=1-1&keywords=romance+of+the+three+kingdoms",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-5nbspalibaba"
   },
   {
     "title": "Netflix (Part 1)",
+    "episode": "Season 3, Episode 8",
+    "date": "November 11, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Good Place on... Netflix!",
-        "link": "https://www.netflix.com/title/80113701"
+        "name": "The Good Place on... Netflix!",
+        "link": "https://www.netflix.com/title/80113701",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Broken Earth Series by N. K. Jemisin",
-        "link": "https://www.amazon.com/gp/kindle/series/B01NGTJDSR/ref=st_kb_B01947LZ8A"
+        "name": "The Broken Earth Series by N. K. Jemisin",
+        "link": "https://www.amazon.com/gp/kindle/series/B01NGTJDSR/ref=st_kb_B01947LZ8A",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-8nbspnetflix-part-1"
   },
   {
     "title": "Netflix (Part 2)",
+    "episode": "Season 3, Episode 9",
+    "date": "November 25, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Kevin Rose interviews Matthew Walker on sleep",
-        "link": "https://bit.ly/2LpIl5v"
+        "name": "Kevin Rose interviews Matthew Walker on sleep",
+        "link": "https://bit.ly/2LpIl5v",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Justin O'Beirne on Apple's new Maps",
-        "link": "https://www.justinobeirne.com/new-apple-maps/"
+        "name": "Justin O'Beirne on Apple's new Maps",
+        "link": "https://www.justinobeirne.com/new-apple-maps/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-9nbspnetflix-part-2"
   },
   {
     "title": "Tencent",
+    "episode": "Season 3, Episode 10",
+    "date": "December 16, 2018",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "President Obama's OG podcast! https",
-        "link": "https://bit.ly/2BqXxHJ"
+        "name": "President Obama's OG podcast! https",
+        "link": "https://bit.ly/2BqXxHJ",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Kara Swisher's interview with the Google Walkout organizers",
-        "link": "https://bit.ly/2RwuskZ"
+        "name": "Kara Swisher's interview with the Google Walkout organizers",
+        "link": "https://bit.ly/2RwuskZ",
+        "carver": "David"
       },
       {
-        "name": "David (bonus!)",
-        "item": "Allen Iverson in the Players' Tribune",
-        "link": "https://bit.ly/2EkrRHQ"
+        "name": "Allen Iverson in the Players' Tribune",
+        "link": "https://bit.ly/2EkrRHQ",
+        "carver": "David (bonus!)"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-3-episode-10-tencent"
   },
   {
     "title": "ESPN",
+    "episode": "Season 4, Episode 1",
+    "date": "January 20, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Numbers Geek with Steve Ballmer",
-        "link": "https://www.geekwire.com/2019/numbers-geek-steve-ballmer-basketball-box-score-mystery/"
+        "name": "Numbers Geek with Steve Ballmer",
+        "link": "https://www.geekwire.com/2019/numbers-geek-steve-ballmer-basketball-box-score-mystery/",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-4-episode-1-espn"
   },
   {
     "title": "Instagram Revisited (with Emily White)",
+    "episode": "Season 4, Episode 3",
+    "date": "February 25, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Sam Harris on the Joe Rogan Experience",
-        "link": "https://www.youtube.com/watch?v=RJ5_hAEsLkU"
+        "name": "Sam Harris on the Joe Rogan Experience",
+        "link": "https://www.youtube.com/watch?v=RJ5_hAEsLkU",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Boom Town by Sam Anderson",
-        "link": "https://www.amazon.com/Boom-Town-Fantastical-Basketball-World-class-ebook/dp/B077RHYC4G"
+        "name": "Boom Town by Sam Anderson",
+        "link": "https://www.amazon.com/Boom-Town-Fantastical-Basketball-World-class-ebook/dp/B077RHYC4G",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/instagram-revisited-with-emily-white"
   },
   {
     "title": "The Lyft IPO",
+    "episode": "Season 4, Episode 4",
+    "date": "March 30, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Bill Gurley on \"Runnin' Down a Dream\" https",
-        "link": "https://www.youtube.com/watch?v=xmYekD6-PZ8"
+        "name": "Bill Gurley on \"Runnin' Down a Dream\" https",
+        "link": "https://www.youtube.com/watch?v=xmYekD6-PZ8",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "\"Cricket Fever\" on Netflix",
-        "link": "https://www.netflix.com/title/80222770"
+        "name": "\"Cricket Fever\" on Netflix",
+        "link": "https://www.netflix.com/title/80222770",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/season-4-episode-4-the-lyft-ipo"
   },
   {
     "title": "The Pinterest IPO",
+    "episode": "Season 4, Episode 5",
+    "date": "April 23, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Eugene Wei on the Invest Like The Best Podcast",
-        "link": "http://investorfieldguide.com/wei/"
+        "name": "Eugene Wei on the Invest Like The Best Podcast",
+        "link": "http://investorfieldguide.com/wei/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "A-Rod interviews George Springer",
-        "link": "https://www.youtube.com/watch?v=QOqgxmG4yc8"
+        "name": "A-Rod interviews George Springer",
+        "link": "https://www.youtube.com/watch?v=QOqgxmG4yc8",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-pinterest-ipo"
   },
   {
     "title": "The Zoom IPO (with Santi Subotovsky)",
+    "episode": "Season 4, Episode 8",
+    "date": "June 18, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "General Magic https",
-        "link": "https://www.generalmagicthemovie.com/"
+        "name": "General Magic https",
+        "link": "https://www.generalmagicthemovie.com/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Dissect Season 4 https",
-        "link": "https://dissectpodcast.com/subscribe-to-the-podcast/"
+        "name": "Dissect Season 4 https",
+        "link": "https://dissectpodcast.com/subscribe-to-the-podcast/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-zoom-ipo-with-santi-subotovsky"
   },
   {
     "title": "The Slack DPO",
+    "episode": "Season 4, Episode 9",
+    "date": "June 24, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Expanse on Amazon",
-        "link": "https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM"
+        "name": "The Expanse on Amazon",
+        "link": "https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Give to any non-profit on Alma",
-        "link": "https://alma.app/blog/1-4-million-reasons-to-love-alma-search"
+        "name": "Give to any non-profit on Alma",
+        "link": "https://alma.app/blog/1-4-million-reasons-to-love-alma-search",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-slack-dpo"
   },
   {
     "title": "Huawei",
+    "episode": "Season 5, Episode 1",
+    "date": "July 22, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Billions",
-        "link": "https://www.imdb.com/title/tt4270492/"
+        "name": "Billions",
+        "link": "https://www.imdb.com/title/tt4270492/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Dune by Frank Herbert",
-        "link": "https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=nodl_"
+        "name": "Dune by Frank Herbert",
+        "link": "https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=nodl_",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/huawei"
   },
   {
     "title": "The Shopify IPO",
+    "episode": "Season 5, Episode 2",
+    "date": "August 6, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Moment smartphone camera lenses",
-        "link": "https://www.shopmoment.com/"
+        "name": "Moment smartphone camera lenses",
+        "link": "https://www.shopmoment.com/",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Quoteapro engineering and head of product roles — DM @david in the Acquired Slack ; Bill Gurley on Invest like the Best",
-        "link": "http://investorfieldguide.com/gurley/"
+        "name": "Quoteapro engineering and head of product roles — DM @david in the Acquired Slack ; Bill Gurley on Invest like the Best",
+        "link": "http://investorfieldguide.com/gurley/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-shopify-ipo"
   },
   {
     "title": "Google Maps",
+    "episode": "Season 5, Episode 3",
+    "date": "August 26, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Marc Andreessen on The Moment with Brian Koppelman",
-        "link": "https://overcast.fm/+BgXAjz54o"
+        "name": "Marc Andreessen on The Moment with Brian Koppelman",
+        "link": "https://overcast.fm/+BgXAjz54o",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "The Expanse books",
-        "link": "https://www.amazon.com/gp/product/B077L6GJWW/"
+        "name": "The Expanse books",
+        "link": "https://www.amazon.com/gp/product/B077L6GJWW/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/google-maps"
   },
   {
     "title": "Sequoia Capital (Part 1)",
+    "episode": "Season 5, Episode 4",
+    "date": "September 26, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "The Business Roundtable on The Daily",
-        "link": "https://www.nytimes.com/2019/08/21/podcasts/the-daily/business-roundtable-corporate-responsibility.html"
+        "name": "The Business Roundtable on The Daily",
+        "link": "https://www.nytimes.com/2019/08/21/podcasts/the-daily/business-roundtable-corporate-responsibility.html",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Amazon Music on 25 years of “Ready to Die”",
-        "link": "https://youtu.be/Dsna1nIZzB4"
+        "name": "Amazon Music on 25 years of “Ready to Die”",
+        "link": "https://youtu.be/Dsna1nIZzB4",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/sequoia-capital-part-1"
   },
   {
     "title": "Disney, Plus",
+    "episode": "Season 5, Episode 7",
+    "date": "November 25, 2019",
     "carveOuts": [
       {
-        "name": "David",
-        "item": "The Ride of a Lifetime",
-        "link": null
+        "name": "The Ride of a Lifetime",
+        "link": null,
+        "carver": "David"
       },
       {
-        "name": "Ben",
-        "item": "The Imagineering Story on Disney+",
-        "link": "https://www.disneyplus.com/series/the-imagineering-story/6ryoXv1e1rWW"
+        "name": "The Imagineering Story on Disney+",
+        "link": "https://www.disneyplus.com/series/the-imagineering-story/6ryoXv1e1rWW",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/disney-plus"
   },
   {
     "title": "TikTok",
+    "episode": "Season 5, Episode 8",
+    "date": "December 8, 2019",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Track 34 on Ghosts IV by Nine Inch Nails",
-        "link": "https://www.youtube.com/watch?v=XF_ceFugJjQ"
+        "name": "Track 34 on Ghosts IV by Nine Inch Nails",
+        "link": "https://www.youtube.com/watch?v=XF_ceFugJjQ",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Nintendo Switch Lite https",
-        "link": "https://www.nintendo.com/switch/lite/"
+        "name": "Nintendo Switch Lite https",
+        "link": "https://www.nintendo.com/switch/lite/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/tiktok"
   },
   {
     "title": "Convoy (with CEO Dan Lewis)",
+    "episode": "Season 5, Episode 9",
+    "date": "December 19, 2019",
     "carveOuts": [
       {
-        "name": "Mystery",
-        "item": "https",
-        "link": "https://mystery.sh/"
+        "name": "https",
+        "link": "https://mystery.sh/",
+        "carver": "Mystery"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/convoy-with-ceo-dan-lewis"
   },
   {
     "title": "WhatsApp",
+    "episode": "Season 6, Episode 1",
+    "date": "January 28, 2020",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Computer glasses",
-        "link": "https://www.amazon.com/s?k=computer+glasses"
+        "name": "Computer glasses",
+        "link": "https://www.amazon.com/s?k=computer+glasses",
+        "carver": "Ben"
       },
       {
-        "name": "David",
-        "item": "Reebok Floatrides",
-        "link": "https://www.amazon.com/Reebok-Forever-Floatride-Energy-Black/dp/B07NYBRQ96/"
+        "name": "Reebok Floatrides",
+        "link": "https://www.amazon.com/Reebok-Forever-Floatride-Energy-Black/dp/B07NYBRQ96/",
+        "carver": "David"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/whatsapp"
   },
   {
     "title": "SpaceX",
+    "episode": "Season 6, Episode 7",
+    "date": "May 26, 2020",
     "carveOuts": [
       {
-        "name": "David",
-        "item": "The Last Dance",
-        "link": "http://www.espn.com/nba/story/_/id/28973557/the-last-dance-updates-untold-story-michael-jordan-chicago-bulls"
+        "name": "The Last Dance",
+        "link": "http://www.espn.com/nba/story/_/id/28973557/the-last-dance-updates-untold-story-michael-jordan-chicago-bulls",
+        "carver": "David"
       },
       {
-        "name": "Ben",
-        "item": "Michael Mauboussin on the Success Equation",
-        "link": "https://youtu.be/1JLfqBsX5Lc"
+        "name": "Michael Mauboussin on the Success Equation",
+        "link": "https://youtu.be/1JLfqBsX5Lc",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/spacex"
   },
   {
     "title": "Oprah (Harpo Studios)",
+    "episode": "Season 6, Episode 8",
+    "date": "June 25, 2020",
     "carveOuts": [
       {
-        "name": "David",
-        "item": "The Dark Tower series by Stephen King https",
-        "link": "https://www.amazon.com/gp/product/B07959YG1R"
+        "name": "The Dark Tower series by Stephen King https",
+        "link": "https://www.amazon.com/gp/product/B07959YG1R",
+        "carver": "David"
       },
       {
-        "name": "Ben",
-        "item": "Reply All \"Long Distance\" https",
-        "link": "https://gimletmedia.com/shows/reply-all/6nh3wk"
+        "name": "Reply All \"Long Distance\" https",
+        "link": "https://gimletmedia.com/shows/reply-all/6nh3wk",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/oprah-harpo-studios"
   },
   {
     "title": "Pinduoduo",
+    "episode": "Season 7, Episode 1",
+    "date": "July 16, 2020",
     "carveOuts": [
       {
-        "name": "How to Make a Spaceship https",
-        "item": "//www.amazon.com/How-Make-Spaceship-Renegades-Spaceflight/dp/1594206724",
-        "link": "https://www.amazon.com/How-Make-Spaceship-Renegades-Spaceflight/dp/1594206724"
+        "name": "//www.amazon.com/How-Make-Spaceship-Renegades-Spaceflight/dp/1594206724",
+        "link": "https://www.amazon.com/How-Make-Spaceship-Renegades-Spaceflight/dp/1594206724",
+        "carver": "How to Make a Spaceship https"
       },
       {
-        "name": "Creativity, Inc. https",
-        "item": "//www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/\n‍",
-        "link": "https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/"
+        "name": "//www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/\n‍",
+        "link": "https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/",
+        "carver": "Creativity, Inc. https"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/pinduoduo"
   },
   {
     "title": "The NBA",
+    "episode": "Season 7, Episode 4",
+    "date": "September 30, 2020",
     "carveOuts": [
       {
-        "name": "David",
-        "item": "Phil Libin and Mmhmm on Joe Sweeny's Just Raised podcast",
-        "link": "https://overcast.fm/+hJ7uJqHMA"
+        "name": "Phil Libin and Mmhmm on Joe Sweeny's Just Raised podcast",
+        "link": "https://overcast.fm/+hJ7uJqHMA",
+        "carver": "David"
       },
       {
-        "name": "Ben",
-        "item": "Meow Wolf + documentary\n‍",
-        "link": "https://meowwolf.com/explore/origin-story"
+        "name": "Meow Wolf + documentary\n‍",
+        "link": "https://meowwolf.com/explore/origin-story",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-nba"
   },
   {
     "title": "Twitter (with Dick Costolo)",
+    "episode": "Season 7, Episode 5",
+    "date": "October 28, 2020",
     "carveOuts": [
       {
         "name": "Vote!",
         "link": "https://www.vote.org/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/twitter-with-dick-costolo"
   },
   {
     "title": "Airbnb",
+    "episode": "Season 7, Episode 8",
+    "date": "December 10, 2020",
     "carveOuts": [
       {
         "name": "David — San Francisco Ballet's Nutcracker",
@@ -1259,20 +1480,26 @@
         "name": "Ben — Star Wars Lofi HipHop",
         "link": "https://open.spotify.com/playlist/5iu1sp3UBb1rjf8KNKETtJ?si=WxPdJcRpSnelHN9qh0xYSw"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/airbnb"
   },
   {
     "title": "The New York Times Company",
+    "episode": "Season 8, Episode 2",
+    "date": "February 17, 2021",
     "carveOuts": [
       {
-        "name": "Ben",
-        "item": "Titan by Ron Chernow and Iteratively",
-        "link": "https://www.amazon.com/Titan-Life-John-Rockefeller-Sr-ebook/dp/B000XUDGHG"
+        "name": "Titan by Ron Chernow and Iteratively",
+        "link": "https://www.amazon.com/Titan-Life-John-Rockefeller-Sr-ebook/dp/B000XUDGHG",
+        "carver": "Ben"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-new-york-times-company"
   },
   {
     "title": "Meituan",
+    "episode": "Season 8, Episode 3",
+    "date": "March 10, 2021",
     "carveOuts": [
       {
         "name": "Extraterrestrial",
@@ -1282,10 +1509,13 @@
         "name": "John Luttig's newsletter",
         "link": "https://luttig.substack.com/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/meituan"
   },
   {
     "title": "Rec Room Part II (with CEO Nick Fajt)",
+    "episode": "Season 8, Episode 4",
+    "date": "March 23, 2021",
     "carveOuts": [
       {
         "name": "Invent and Wander",
@@ -1299,10 +1529,13 @@
         "name": "How The Economic Machine Works by Ray Dalio",
         "link": "https://www.youtube.com/watch?v=PHe0bXAIuk0"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/rec-room-part-ii-with-ceo-nick-fajt"
   },
   {
     "title": "Berkshire Hathaway Part I",
+    "episode": "Season 8, Episode 5",
+    "date": "April 20, 2021",
     "carveOuts": [
       {
         "name": "Balaji Srinivasan on The Tim Ferriss Show",
@@ -1312,10 +1545,13 @@
         "name": "Year One of Not Boring",
         "link": "https://www.notboring.co/p/a-not-boring-adventure-one-year-in"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/berkshire-hathaway-part-i"
   },
   {
     "title": "Berkshire Hathaway Part II",
+    "episode": "Season 8, Episode 6",
+    "date": "May 12, 2021",
     "carveOuts": [
       {
         "name": "Macklemore on Armchair Expert",
@@ -1325,10 +1561,13 @@
         "name": "The Sopranos",
         "link": "https://www.hbo.com/the-sopranos"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/berkshire-hathaway-part-ii"
   },
   {
     "title": "Berkshire Hathaway Part III",
+    "episode": "Season 8, Episode 7",
+    "date": "June 6, 2021",
     "carveOuts": [
       {
         "name": "Common Stocks and Uncommon Profits",
@@ -1346,10 +1585,13 @@
         "name": "The Goodfellas soundtrack",
         "link": "https://open.spotify.com/playlist/0xVpgEngjrg6FOw5vEFHRp"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/berkshire-hathaway-part-iii"
   },
   {
     "title": "Ethereum (with Packy McCormick)",
+    "episode": "Season 8, Episode 8",
+    "date": "July 6, 2021",
     "carveOuts": [
       {
         "name": "Arthur C. Clarke (especially Rendezvous with Rama and The City & The Stars)",
@@ -1371,10 +1613,13 @@
         "name": "Magic the Gathering IRL",
         "link": "https://magic.wizards.com/en/events/event-types/friday-night-magic"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/ethereum"
   },
   {
     "title": "Andreessen Horowitz Part II",
+    "episode": "Season 9, Episode 2",
+    "date": "August 9, 2021",
     "carveOuts": [
       {
         "name": "Childhood's End",
@@ -1392,10 +1637,13 @@
         "name": "Who Got the Truth on Spotify!!",
         "link": "https://open.spotify.com/track/03X7SwpsCjZIofK8RFPwch?si=649d93b2be7743d5"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/andreessen-horowitz-part-ii"
   },
   {
     "title": "TSMC",
+    "episode": "Season 9, Episode 3",
+    "date": "September 6, 2021",
     "carveOuts": [
       {
         "name": "Ted Lasso (Season 1)",
@@ -1409,10 +1657,13 @@
         "name": "Who is Michael Ovitz?",
         "link": "https://www.amazon.com/dp/B07B2HS77M/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/tsmc"
   },
   {
     "title": "Standard Oil Part I",
+    "episode": "Season 9, Episode 4",
+    "date": "September 21, 2021",
     "carveOuts": [
       {
         "name": "There Will Be Blood",
@@ -1426,10 +1677,13 @@
         "name": "SB Nation's Secret Base Atlanta Falcons series",
         "link": "https://youtu.be/Lx_ORMhpmoU"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/standard-oil-part-i"
   },
   {
     "title": "Standard Oil Part II",
+    "episode": "Season 9 Episode 5",
+    "date": "October 18, 2021",
     "carveOuts": [
       {
         "name": "The to-be-announced (as of recording) M1X MacBook Pro...",
@@ -1443,10 +1697,13 @@
         "name": "Peloton",
         "link": "https://www.onepeloton.com/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/standard-oil-part-ii"
   },
   {
     "title": "Not Boring (with Packy McCormick)",
+    "episode": "Season 9, Episode 6",
+    "date": "December 3, 2021",
     "carveOuts": [
       {
         "name": "Velcro swaddles (dad life...)",
@@ -1460,24 +1717,30 @@
         "name": "Rabbits",
         "link": "https://www.amazon.com/Rabbits-Novel-Terry-Miles-ebook/dp/B08HY29VM2"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/not-boring-with-packy-mccormick"
   },
   {
     "title": "Taylor Swift (Acquired’s Version)",
+    "episode": "Season 10, Episode 1",
+    "date": "January 23, 2022",
     "carveOuts": [
       {
-        "name": "The Beatles",
-        "item": "Get Back",
-        "link": "https://www.disneyplus.com/en-gb/series/the-beatles-get-back/7DcWEeWVqrkE"
+        "name": "Get Back",
+        "link": "https://www.disneyplus.com/en-gb/series/the-beatles-get-back/7DcWEeWVqrkE",
+        "carver": "The Beatles"
       },
       {
         "name": "Italic",
         "link": "https://italic.com/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/taylor-swift-acquireds-version"
   },
   {
     "title": "Peloton",
+    "episode": "Season 10, Episode 2",
+    "date": "February 10, 2022",
     "carveOuts": [
       {
         "name": "Barry’s planning framework from the Hill School interview",
@@ -1487,10 +1750,13 @@
         "name": "Switched On Pop on James Bond’s Spycraft Sound",
         "link": "https://switchedonpop.com/episodes/james-bond-spycraft-sound-billie-eilish-hans-zimmer-daniel-craig"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/peloton"
   },
   {
     "title": "The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)",
+    "episode": "",
+    "date": "February 14, 2022",
     "carveOuts": [
       {
         "name": "Project Hail Mary",
@@ -1508,10 +1774,13 @@
         "name": "Dynamic Economics",
         "link": "https://www.amazon.com/Dynamic-Economics-Burton-H-Klein/dp/0674218663"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave"
   },
   {
     "title": "Super Pumped (with Brian Koppelman and Joseph Gordon-Levitt)",
+    "episode": "",
+    "date": "February 20, 2022",
     "carveOuts": [
       {
         "name": "Joe performing Katy Perry in the style of The Cure on Jimmy Fallon",
@@ -1541,10 +1810,13 @@
         "name": "HitRecord",
         "link": "https://hitrecord.org/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/super-pumped-with-brian-koppelman-and-joseph-gordon-levitt"
   },
   {
     "title": "SONY",
+    "episode": "Season 10, Episode 3",
+    "date": "March 7, 2022",
     "carveOuts": [
       {
         "name": "How This All Happened by Morgan Housel",
@@ -1554,19 +1826,25 @@
         "name": "The Model 3 is AWESOME",
         "link": "https://www.tesla.com/model3"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/sony"
   },
   {
     "title": "Altimeter (with Brad Gerstner)",
+    "episode": "Season 10, Episode 4",
+    "date": "March 14, 2022",
     "carveOuts": [
       {
         "name": "Brad’s Twitter thread on Invest America",
         "link": "https://twitter.com/altcap/status/1347454947583950849?s=20&t=gM5zJMcq9p96GcjEHZw56w"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/altimeter-with-brad-gerstner"
   },
   {
     "title": "Nvidia Part I: The GPU Company (1993-2006)",
+    "episode": "Season 10, Episode 5",
+    "date": "March 27, 2022",
     "carveOuts": [
       {
         "name": "Starting Strength",
@@ -1576,10 +1854,13 @@
         "name": "Elden Ring",
         "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006"
   },
   {
     "title": "Nvidia Part II: The Machine Learning Company (2006-2022)",
+    "episode": "Season 10, Episode 6",
+    "date": "April 20, 2022",
     "carveOuts": [
       {
         "name": "The Expanse short story collection, Memory's Legion",
@@ -1589,10 +1870,13 @@
         "name": "Sony RX100 point-and-shoot camera",
         "link": "https://electronics.sony.com/imaging/compact-cameras/all-compact-cameras/p/dscrx100m7-b"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nvidia-the-machine-learning-company-2006-2022"
   },
   {
     "title": "Walmart",
+    "episode": "Season 11, Episode 1",
+    "date": "July 18, 2022",
     "carveOuts": [
       {
         "name": "Ted Weschler on the Nebraska Furniture Mart podcast!!!",
@@ -1602,10 +1886,13 @@
         "name": "Mario Puzo’s The Godfather (the book)",
         "link": "https://www.amazon.com/Godfather-Mario-Puzo-dp-0451205766/dp/0451205766/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/walmart"
   },
   {
     "title": "Amazon.com",
+    "episode": "Season 11, Episode 2",
+    "date": "August 16, 2022",
     "carveOuts": [
       {
         "name": "Rick Rubin on the Lex Fridman Podcast",
@@ -1623,10 +1910,13 @@
         "name": "Elden Ring (again)",
         "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/amazon-com"
   },
   {
     "title": "Amazon Web Services",
+    "episode": "Season 11, Episode 3",
+    "date": "September 5, 2022",
     "carveOuts": [
       {
         "name": "Moon Knight",
@@ -1636,10 +1926,13 @@
         "name": "John Carmack on The Lex Fridman Podcast",
         "link": "https://lexfridman.com/john-carmack/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/amazon-web-services"
   },
   {
     "title": "Benchmark Part I",
+    "episode": "Season 11, Episode 4",
+    "date": "September 27, 2022",
     "carveOuts": [
       {
         "name": "Bill Gurley’s Runnin’ Down a Dream talk",
@@ -1657,15 +1950,18 @@
         "name": "Ursula Le Guin’s Earthsea Cycle",
         "link": "https://www.amazon.com/Earthsea-Cycle-Set-Books-1/dp/B07PBZX7HT"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/benchmark-capital"
   },
   {
     "title": "Enron",
+    "episode": "Season 11, Episode 7",
+    "date": "November 28, 2022",
     "carveOuts": [
       {
-        "name": "Enron",
-        "item": "The Musical",
-        "link": "https://www.broadway.com/shows/enron/"
+        "name": "The Musical",
+        "link": "https://www.broadway.com/shows/enron/",
+        "carver": "Enron"
       },
       {
         "name": "Andor",
@@ -1687,10 +1983,13 @@
         "name": "New shirts are live in the ACQ Merch Store!",
         "link": "https://cottonbureau.com/people/acquired-fm"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/enron"
   },
   {
     "title": "Holiday Special 2022",
+    "episode": "",
+    "date": "December 18, 2022",
     "carveOuts": [
       {
         "name": "Jerry Seinfeld on The Tim Ferriss Show",
@@ -1812,10 +2111,13 @@
         "name": "Capri",
         "link": null
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/holiday-special-2022"
   },
   {
     "title": "The NFL",
+    "episode": "Season 12, Episode 1",
+    "date": "January 25, 2023",
     "carveOuts": [
       {
         "name": "The Menu",
@@ -1825,10 +2127,13 @@
         "name": "Peyton’s Places",
         "link": "https://www.imdb.com/title/tt10241812/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/the-nfl"
   },
   {
     "title": "LVMH",
+    "episode": "Season 12, Episode 2",
+    "date": "February 21, 2023",
     "carveOuts": [
       {
         "name": "The Gamecraft Podcast",
@@ -1846,10 +2151,13 @@
         "name": "The Eureka Theory of History Is Wrong",
         "link": "https://www.theatlantic.com/magazine/archive/2023/01/science-technology-vaccine-invention-history/672227/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/lvmh"
   },
   {
     "title": "Nintendo's Origins",
+    "episode": "Season 12, Episode 3",
+    "date": "March 15, 2023",
     "carveOuts": [
       {
         "name": "Everything Everywhere All At Once",
@@ -1859,10 +2167,13 @@
         "name": "Michael Lewis on Tim Ferriss and on CSPAN",
         "link": "https://tim.blog/2020/05/01/michael-lewis/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nintendo"
   },
   {
     "title": "Nintendo: The Console Wars",
+    "episode": "Season 12, Episode 4",
+    "date": "April 11, 2023",
     "carveOuts": [
       {
         "name": "Kara Swisher in Vanity Fair (and our old episode with her!)",
@@ -1880,10 +2191,13 @@
         "name": "Daryl Morey on Invest Like the Best",
         "link": "https://www.joincolossus.com/episodes/50823211/morey-systems-thinking-in-sports?tab=transcript"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nintendo-the-console-wars"
   },
   {
     "title": "Short: The Death of Sega",
+    "episode": "",
+    "date": "April 17, 2023",
     "carveOuts": [
       {
         "name": "Daryl Morey on Invest Like the Best",
@@ -1901,15 +2215,18 @@
         "name": "6 Days to Air",
         "link": "https://www.imdb.com/title/tt2076781/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/short-the-death-of-sega"
   },
   {
     "title": "Lockheed Martin",
+    "episode": "Season 12, Episode 5",
+    "date": "May 29, 2023",
     "carveOuts": [
       {
-        "name": "Nier",
-        "item": "Automata",
-        "link": "https://en.wikipedia.org/wiki/Nier:_Automata"
+        "name": "Automata",
+        "link": "https://en.wikipedia.org/wiki/Nier:_Automata",
+        "carver": "Nier"
       },
       {
         "name": "The Blackbird speed check story",
@@ -1919,10 +2236,13 @@
         "name": "EGO Lawn Tools (just in time for Fathers’ Day!)",
         "link": "https://egopowerplus.com/power-blowers/?gad=1&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF_te03nXGYJnmGkklzqFMCy5MUSn6tmCzHz1Zj0rup-s2UtUAlESv4aAmjEEALw_wcB&gclsrc=aw.ds"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/lockheed-martin"
   },
   {
     "title": "Porsche (with Doug DeMuro)",
+    "episode": "Season 12, Episode 6",
+    "date": "June 26, 2023",
     "carveOuts": [
       {
         "name": "ResortPass",
@@ -1936,10 +2256,13 @@
         "name": "WhistlinDiesel",
         "link": "https://www.youtube.com/@whistlindiesel"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/porsche-with-doug-demuro"
   },
   {
     "title": "Nike",
+    "episode": "Season 13, Episode 1",
+    "date": "July 24, 2023",
     "carveOuts": [
       {
         "name": "Marc Andreessen on Lex Fridman and on Ben Thompson",
@@ -1949,10 +2272,13 @@
         "name": "Speak Now (Taylor’s Version)",
         "link": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nike"
   },
   {
     "title": "Costco",
+    "episode": "Season 13, Episode 2",
+    "date": "August 20, 2023",
     "carveOuts": [
       {
         "name": "Tifosi sunglasses",
@@ -1974,10 +2300,13 @@
         "name": "David Lidsky’s great piece on Acquired in Fast Company",
         "link": "https://www.fastcompany.com/90927453/acquired-number-1-tech-podcast-sensation"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/costco"
   },
   {
     "title": "Nvidia Part III: The Dawn of the AI Era (2022-2023)",
+    "episode": "Season 13, Episode 3",
+    "date": "September 5, 2023",
     "carveOuts": [
       {
         "name": "Alias",
@@ -1987,10 +2316,13 @@
         "name": "Moana",
         "link": "https://movies.disney.com/moana"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era"
   },
   {
     "title": "Visa",
+    "episode": "Season 13, Episode 4",
+    "date": "November 26, 2023",
     "carveOuts": [
       {
         "name": "I Think You Should Leave",
@@ -2000,10 +2332,13 @@
         "name": "Mistborn",
         "link": "https://www.amazon.com/Mistborn-Final-Empire-Brandon-Sanderson/dp/0765377136"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/visa"
   },
   {
     "title": "Holiday Special 2023",
+    "episode": "Season 13, Episode 5",
+    "date": "December 17, 2023",
     "carveOuts": [
       {
         "name": "The Psychology of Money",
@@ -2097,10 +2432,13 @@
         "name": "At Present",
         "link": "https://atpresent.com/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/holiday-special-2023"
   },
   {
     "title": "Novo Nordisk (Ozempic)",
+    "episode": "Season 14, Episode 1",
+    "date": "January 21, 2024",
     "carveOuts": [
       {
         "name": "Noxgear Tracer 2 running vest",
@@ -2122,10 +2460,13 @@
         "name": "Blackberry",
         "link": "https://www.imdb.com/title/tt21867434/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/novo-nordisk-ozempic"
   },
   {
     "title": "Hermès",
+    "episode": "Season 14, Episode 2",
+    "date": "February 19, 2024",
     "carveOuts": [
       {
         "name": "Anker GaN Prime 100W charger",
@@ -2143,10 +2484,13 @@
         "name": "The Score Takes Care of Itself\n‍",
         "link": "https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/hermes"
   },
   {
     "title": "Renaissance Technologies",
+    "episode": "Season 14, Episode 3",
+    "date": "March 17, 2024",
     "carveOuts": [
       {
         "name": "Modern Treasury’s Transfer Conference Registration",
@@ -2164,6 +2508,7 @@
         "name": "Class of Palm Beach (and the Mini Kelly inside the Birkin!!)\n‍",
         "link": "https://www.instagram.com/classofpalmbeach/"
       }
-    ]
+    ],
+    "url": "https://www.acquired.fm/episodes/renaissance-technologies"
   }
 ]

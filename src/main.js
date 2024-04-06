@@ -8,11 +8,12 @@ fetch("/carve-outs.json")
           (item) => `
                 <div class="card">
                     <h4>${item.title}</h4>
+                    <p>Carve Outs:</p>
                     <ul class="list">
                         ${item.carveOuts
                           .map((carveOut) => {
-                            const linkText = carveOut.item
-                              ? `${carveOut.item} (by ${carveOut.name})`
+                            const linkText = carveOut.carver
+                              ? `${carveOut.name} (by ${carveOut.carver})`
                               : carveOut.name;
                             return `<li class="list-item">
                                 <a href="${carveOut.link}" target="_blank" class="link">${linkText}</a>
@@ -20,6 +21,12 @@ fetch("/carve-outs.json")
                           })
                           .join("")}
                     </ul>
+                    <p>Episode: 
+                      <a href="${item.url}" target="_blank" class="link">
+                        ${item.episode}
+                      </a>
+                      (${item.date})
+                    </p>
                 </div>
             `,
         )
