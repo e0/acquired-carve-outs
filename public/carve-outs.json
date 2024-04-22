@@ -2540,5 +2540,33 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/renaissance-technologies"
+  },
+  {
+    "title": "Microsoft",
+    "episode": "Season 14, Episode 4",
+    "date": "April 21, 2024",
+    "carveOuts": [
+      {
+        "name": "LGR",
+        "link": "https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ"
+      },
+      {
+        "name": "André 3000’s new album + GQ Interview",
+        "link": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD?si=Axxs2iVRQdSkdAH_4PEi6g"
+      },
+      {
+        "name": "Meta Ray-Bans",
+        "link": "https://www.meta.com/smart-glasses/shop-all/"
+      },
+      {
+        "name": "Visual Designer Julia Rundberg",
+        "link": "https://www.juliarundberg.com/"
+      },
+      {
+        "name": "Summer Health\n‍",
+        "link": "https://www.summerhealth.com/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/microsoft"
   }
 ]
