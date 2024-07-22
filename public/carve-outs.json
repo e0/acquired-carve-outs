@@ -2568,5 +2568,29 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/microsoft"
+  },
+  {
+    "title": "Microsoft Volume II",
+    "episode": "Season 14, Episode 6",
+    "date": "July 21, 2024",
+    "carveOuts": [
+      {
+        "name": "Meta Ray-Bans",
+        "link": "https://www.meta.com/smart-glasses/shop-all/"
+      },
+      {
+        "name": "Ozlo Sleepbuds",
+        "link": "https://ozlosleep.com/"
+      },
+      {
+        "name": "M3 Macbook Air",
+        "link": "https://www.apple.com/macbook-air/"
+      },
+      {
+        "name": "Model Y\n‍",
+        "link": "https://www.tesla.com/modely"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/microsoft-volume-ii"
   }
 ]
