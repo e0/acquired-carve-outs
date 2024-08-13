@@ -69,4 +69,38 @@ episodes[i].carveOuts = [
   },
 ];
 
+let msftVol2Index = episodes.findIndex(
+  (episode) => episode.title === "Microsoft Volume II",
+);
+
+// add special episode after msft vol 2
+episodes.splice(msftVol2Index + 1, 0, {
+  title: "Chase Center + Summer Update",
+  episode: "Season 14, Episode 7",
+  date: "August 8, 2024",
+  carveOuts: [
+    {
+      name: "Thule Urban Glide 3",
+      link: "https://www.thule.com/en-us/strollers/jogging-strollers/thule-urban-glide-3-_-10101972",
+    },
+    {
+      name: "Disney’s Aulani Resort",
+      link: "https://www.disneyaulani.com",
+    },
+    {
+      name: "Meller sunglasses",
+      link: "https://mellerbrand.com",
+    },
+    {
+      name: "Quarterback on Netflix",
+      link: "https://www.netflix.com/se-en/title/81482895",
+    },
+    {
+      name: "Receiver on Netflix",
+      link: "https://www.netflix.com/se-en/title/81733809",
+    },
+  ]
+})
+
+
 fs.writeFileSync("public/carve-outs.json", JSON.stringify(episodes, null, 2));

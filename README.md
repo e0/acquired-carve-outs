@@ -28,7 +28,7 @@ To update the data:
 bun run update.ts
 ```
 
-The 2016/2017 predictions episode is formatted differently, to fix the data for this episode:
+The 2016/2017 predictions episode is formatted differently. A special episode was not available from the acquired.fm website at the time of updating this repo. To fix the data for these episodes:
 
 ```bash
 bun run fix.ts

@@ -2592,5 +2592,32 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/microsoft-volume-ii"
+  },
+  {
+    "title": "Chase Center + Summer Update",
+    "episode": "Season 14, Episode 7",
+    "date": "August 8, 2024",
+    "carveOuts": [
+      {
+        "name": "Thule Urban Glide 3",
+        "link": "https://www.thule.com/en-us/strollers/jogging-strollers/thule-urban-glide-3-_-10101972"
+      },
+      {
+        "name": "Disney’s Aulani Resort",
+        "link": "https://www.disneyaulani.com"
+      },
+      {
+        "name": "Meller sunglasses",
+        "link": "https://mellerbrand.com"
+      },
+      {
+        "name": "Quarterback on Netflix",
+        "link": "https://www.netflix.com/se-en/title/81482895"
+      },
+      {
+        "name": "Receiver on Netflix",
+        "link": "https://www.netflix.com/se-en/title/81733809"
+      }
+    ]
   }
 ]
