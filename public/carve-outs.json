@@ -2619,5 +2619,25 @@
         "link": "https://www.netflix.com/se-en/title/81733809"
       }
     ]
+  },
+  {
+    "title": "Meta",
+    "episode": "Fall 2024, Episode 2",
+    "date": "October 27, 2024",
+    "carveOuts": [
+      {
+        "name": "Ben Cohen’s piece on NotebookLM",
+        "link": "https://www.wsj.com/tech/ai/google-notebooklm-ai-podcast-deep-dive-audio-c30a06b3"
+      },
+      {
+        "name": "Mr. McMahon",
+        "link": "https://www.imdb.com/title/tt33301469/"
+      },
+      {
+        "name": "The Dwarkesh Podcast",
+        "link": "https://www.dwarkeshpatel.com/p/daniel-yergin"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/meta"
   }
 ]
