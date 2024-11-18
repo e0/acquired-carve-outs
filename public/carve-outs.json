@@ -2639,5 +2639,29 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/meta"
+  },
+  {
+    "title": "IKEA",
+    "episode": "Fall 2024, Episode 3",
+    "date": "November 17, 2024",
+    "carveOuts": [
+      {
+        "name": "Detroiters",
+        "link": "https://www.imdb.com/title/tt4779762/"
+      },
+      {
+        "name": "The 11-inch iPad Pro",
+        "link": "https://www.apple.com/ipad-pro/"
+      },
+      {
+        "name": "The QB School",
+        "link": "https://www.youtube.com/c/theqbschool"
+      },
+      {
+        "name": "Ice Cube at the World Series\n‍",
+        "link": "https://youtu.be/C-Cv9z86cOE?si=lknKUOgzst4HTW2X"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/ikea"
   }
 ]
