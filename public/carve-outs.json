@@ -2663,5 +2663,29 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/ikea"
+  },
+  {
+    "title": "Mars Inc. (the chocolate story)",
+    "episode": "Fall 2024, Episode 4",
+    "date": "December 15, 2024",
+    "carveOuts": [
+      {
+        "name": "Dandelion Chocolate and the Dandelion Advent Calendar",
+        "link": "https://www.dandelionchocolate.com/"
+      },
+      {
+        "name": "Tesla Model Y + repair service",
+        "link": "https://ts.la/ben11770"
+      },
+      {
+        "name": "Silo",
+        "link": "https://www.imdb.com/title/tt14688458/"
+      },
+      {
+        "name": "Home Alone\n‍",
+        "link": "https://www.imdb.com/title/tt0099785/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story"
   }
 ]
