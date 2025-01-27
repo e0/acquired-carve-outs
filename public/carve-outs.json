@@ -2687,5 +2687,49 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story"
+  },
+  {
+    "title": "TSMC (Remastered)",
+    "episode": "Special",
+    "date": "January 20, 2025",
+    "carveOuts": [
+      {
+        "name": "Ted Lasso (Season 1)",
+        "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
+      },
+      {
+        "name": "Greek",
+        "link": "https://www.imdb.com/title/tt0976014/"
+      },
+      {
+        "name": "Who is Michael Ovitz?\n‍",
+        "link": "https://www.amazon.com/dp/B07B2HS77M/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/tsmc-remastered"
+  },
+  {
+    "title": "TSMC Founder Morris Chang",
+    "episode": "Spring 2025, Episode 1",
+    "date": "January 26, 2025",
+    "carveOuts": [
+      {
+        "name": "AAA",
+        "link": "https://www.aaa.com/"
+      },
+      {
+        "name": "Defunctland",
+        "link": "https://www.youtube.com/defunctland"
+      },
+      {
+        "name": "Everything Everywhere all at Once",
+        "link": "https://www.imdb.com/title/tt6710474/"
+      },
+      {
+        "name": "Asianometry\n‍",
+        "link": "https://www.youtube.com/asianometry"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
   }
 ]
