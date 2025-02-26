@@ -2731,5 +2731,25 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
+  },
+  {
+    "title": "Rolex",
+    "episode": "Spring 2025, Episode 2",
+    "date": "February 23, 2025",
+    "carveOuts": [
+      {
+        "name": "Bluey",
+        "link": "https://www.imdb.com/title/tt7678620/"
+      },
+      {
+        "name": "Acquired on Armchair Expert",
+        "link": "https://open.spotify.com/episode/6xGGNXHVEVrEqH0kh0xbbz?si=mzd5tDwOTcOIh8zScIqk2A"
+      },
+      {
+        "name": "Eleven Reader\n‍",
+        "link": "https://elevenreader.io/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/rolex"
   }
 ]
