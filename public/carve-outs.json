@@ -2751,5 +2751,21 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/rolex"
+  },
+  {
+    "title": "Indian Premier League Cricket",
+    "episode": "Spring 2025, Episode 3",
+    "date": "March 23, 2025",
+    "carveOuts": [
+      {
+        "name": "Severance",
+        "link": "https://www.imdb.com/title/tt11280740/"
+      },
+      {
+        "name": "Stratechery\n‍",
+        "link": "https://stratechery.com/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/indian-premier-league-cricket"
   }
 ]
