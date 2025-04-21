@@ -2767,5 +2767,34 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/indian-premier-league-cricket"
+  },
+  {
+    "title": "Epic Systems (MyChart)",
+    "episode": "Spring 2025, Episode 4",
+    "date": "April 20, 2025",
+    "carveOuts": [
+      {
+        "name": "Ken Block in San Francisco",
+        "link": "https://youtu.be/LuDN2bCIyus?si=rHU8CjPAoeHck0uK"
+      },
+      {
+        "name": "Nintendo Switch 2",
+        "link": "https://www.nintendo.com/us/gaming-systems/switch-2/?srsltid=AfmBOoq-kZTYsNm0_if1ONE-8GV0k1x77Nv41aWbkSpgrqSU9zcyQAog"
+      },
+      {
+        "name": "Knives Out",
+        "link": "https://www.imdb.com/title/tt8946378/"
+      },
+      {
+        "name": "Brat by Charli xcx",
+        "link": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=bdGrTidgRIKMMBNvjHzbWQ"
+      },
+      {
+        "name": "A Remix Companion to Severance by ODESZA",
+        "link": "https://open.spotify.com/album/7bNj7hUkbRbZzn36MdyvUk?si=tL7uLI15QVasFLXuRaKkZQ",
+        "carver": "Music To Refine To"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/epic-systems-mychart"
   }
 ]
