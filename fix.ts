@@ -1,18 +1,5 @@
 import fs from "fs";
-
-type CarveOut = {
-  name: string;
-  link: string;
-  carver?: string;
-};
-
-type Episode = {
-  title: string;
-  episode: string;
-  date: string;
-  carveOuts: CarveOut[];
-  url?: string;
-};
+import { CarveOut, Episode } from "./utils";
 
 const file = fs.readFileSync("public/carve-outs.json", "utf8");
 let episodes = JSON.parse(file) as Episode[];
