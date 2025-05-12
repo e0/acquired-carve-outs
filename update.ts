@@ -24,11 +24,56 @@ const updateCarveOuts = async () => {
   const { browser, pages } = await createBrowserWithPages(CONCURRENT_PAGES);
 
   try {
-    // Get existing episode URLs
-    const existingUrls = new Set(episodes.map(episode => episode.url).filter(Boolean));
+    // Find the most recent episode we have
+    let mostRecentEpisode = null;
+    if (episodes.length > 0) {
+      // Sort episodes by date (newest first)
+      const sortedEpisodes = [...episodes].sort((a, b) => {
+        // Convert date strings to Date objects for comparison
+        const dateA = new Date(a.date);
+        const dateB = new Date(b.date);
+        return dateB.getTime() - dateA.getTime();
+      });
 
-    // Get latest episode URLs from the website
+      mostRecentEpisode = sortedEpisodes[0];
+      console.log(`Most recent episode in database: "${mostRecentEpisode.title}" (${mostRecentEpisode.date})`);
+    }
+
+    // Get latest episode URLs from the website (first page only)
+    console.log("Fetching latest episodes from website...");
     const latestEpisodeUrls = await getEpisodeUrls(pages[0], EPISODES_PAGE_URL);
+
+    if (latestEpisodeUrls.length === 0) {
+      console.log("No episodes found on website.");
+      return episodes;
+    }
+
+    // If we don't have any episodes yet, process all of them
+    if (!mostRecentEpisode) {
+      console.log("No existing episodes found. Processing all episodes.");
+      const newEpisodeUrls = latestEpisodeUrls;
+
+      if (newEpisodeUrls.length === 0) {
+        console.log("No new episodes found.");
+        return episodes;
+      }
+    } else {
+      // Process the first episode to check its date
+      console.log("Checking most recent episode from website...");
+      const latestWebEpisode = await getCareveoutsForPage(pages[0], latestEpisodeUrls[0]);
+
+      // Compare dates to see if we need to update
+      const latestWebDate = new Date(latestWebEpisode.date);
+      const mostRecentDate = new Date(mostRecentEpisode.date);
+
+      if (latestWebDate <= mostRecentDate) {
+        console.log("Database is already up to date. No new episodes to process.");
+        return episodes;
+      }
+    }
+
+    // Get existing episode URLs for filtering
+    const existingUrls = new Set(episodes.map(episode => episode.url).filter(Boolean));
 
     // Find new episodes that aren't in our database yet
     const newEpisodeUrls = latestEpisodeUrls.filter(url => !existingUrls.has(url));
