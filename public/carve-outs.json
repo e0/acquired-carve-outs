@@ -2796,5 +2796,33 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/epic-systems-mychart"
+  },
+  {
+    "title": "Google",
+    "episode": "Summer 2025, Episode 2",
+    "date": "June 29, 2025",
+    "carveOuts": [
+      {
+        "name": "The Rehearsal with Nathan Fielder (Season 2)",
+        "link": "https://www.hbo.com/the-rehearsal/season-2"
+      },
+      {
+        "name": "Your Friends and Neighbors",
+        "link": "https://tv.apple.com/us/show/your-friends--neighbors/umc.cmc.74o37kzay0yuuub8iumddjsg"
+      },
+      {
+        "name": "Andor Season 2",
+        "link": "https://ondisneyplus.disney.com/show/andor"
+      },
+      {
+        "name": "Gamecraft Season 3",
+        "link": "https://gamecraftpod.com/"
+      },
+      {
+        "name": "Steam Deck vs Switch 2 dilemma",
+        "link": "https://store.steampowered.com/steamdeck/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/google"
   }
 ]
