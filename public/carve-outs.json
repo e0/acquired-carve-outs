@@ -2824,5 +2824,33 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/google"
+  },
+  {
+    "title": "Alphabet Inc.",
+    "episode": "Summer 2025, Episode 4",
+    "date": "August 26, 2025",
+    "carveOuts": [
+      {
+        "name": "Bluey x Camp in NYC",
+        "link": "https://camp.com/bluey-x-camp-nyc"
+      },
+      {
+        "name": "Steam Deck vs Switch 2 (Part 2)",
+        "link": "https://store.steampowered.com/steamdeck/"
+      },
+      {
+        "name": "Claude",
+        "link": "https://bit.ly/claudecarveout"
+      },
+      {
+        "name": "Sony RX100 VII",
+        "link": "https://www.amazon.com/Sony-Premium-Compact-1-0-type-DSCRX100M7/dp/B07VPQV7BY?th=1"
+      },
+      {
+        "name": "Carissimi clothing\n‍",
+        "link": "https://bit.ly/acqcarissimi"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/alphabet-inc"
   }
 ]
