@@ -2852,5 +2852,38 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/alphabet-inc"
+  },
+  {
+    "title": "Google: The AI Company",
+    "episode": "Fall 2025, Episode 1",
+    "date": "October 5, 2025",
+    "carveOuts": [
+      {
+        "name": "We’re hosting the Super Bowl Innovation Summit!",
+        "link": "https://bit.ly/SBISFall25"
+      },
+      {
+        "name": "The Movie",
+        "link": "https://www.imdb.com/title/tt16311594/",
+        "carver": "F1"
+      },
+      {
+        "name": "Travelpro suitcases",
+        "link": "https://travelpro.com/"
+      },
+      {
+        "name": "Glue Guys Podcast",
+        "link": "https://open.spotify.com/show/18n6FcVMR5J0hSeboeETPc?si=b876358f752a474d"
+      },
+      {
+        "name": "Sea of Stars",
+        "link": "https://seaofstarsgame.co/"
+      },
+      {
+        "name": "Stepchange Podcast\n‍",
+        "link": "https://open.spotify.com/show/3RHJ129caYkxh2FliqtaBP?si=2bef3a854e084a39"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/google-the-ai-company"
   }
 ]
