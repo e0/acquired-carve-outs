@@ -2885,5 +2885,21 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/google-the-ai-company"
+  },
+  {
+    "title": "Trader Joe’s",
+    "episode": "Fall 2025, Episode 2",
+    "date": "October 26, 2025",
+    "carveOuts": [
+      {
+        "name": "AirPods Pro 3",
+        "link": "https://www.apple.com/airpods-pro/?afid=p240%7Cgo~cmp-21671577994~adg-184062515686~ad-774428579930_kwd-832987031934~dev-c~ext-~prd-~mca-~nt-search&cid=aos-us-kwgo-airpods-marcom-handover-101725-"
+      },
+      {
+        "name": "Mario Kart 8",
+        "link": "https://mariokart8.nintendo.com/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/trader-joes"
   }
 ]
