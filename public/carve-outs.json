@@ -2901,5 +2901,33 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/trader-joes"
+  },
+  {
+    "title": "Coca-Cola",
+    "episode": "Fall 2025, Episode 3 ",
+    "date": "November 23, 2025",
+    "carveOuts": [
+      {
+        "name": "SkiErg",
+        "link": "https://www.concept2.com/ergs/skierg?srsltid=AfmBOoqW20PnzP0cgbkXHcVWk0FwWZXglXi67XXxBF3vUKxrWX3c2kBj"
+      },
+      {
+        "name": "Super Smash Bros. Ultimate",
+        "link": "https://www.smashbros.com/en_US/"
+      },
+      {
+        "name": "Claude",
+        "link": "https://claude.ai/acquired"
+      },
+      {
+        "name": "Nike Vomero Plus",
+        "link": "https://www.nike.com/t/vomero-plus-mens-road-running-shoes-5npsVBwT"
+      },
+      {
+        "name": "Hermanos Gutiérrez\n‍",
+        "link": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/coca-cola"
   }
 ]
