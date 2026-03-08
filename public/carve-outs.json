@@ -3104,5 +3104,34 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis"
+  },
+  {
+    "title": "Formula 1",
+    "episode": "Spring 2026, Episode 1",
+    "date": "March 2, 2026",
+    "carveOuts": [
+      {
+        "name": "Cirque du Soleil Echo",
+        "link": "https://www.cirquedusoleil.com/echo"
+      },
+      {
+        "name": "Super Bowl LX Mic'd Up",
+        "link": "https://www.nfl.com/videos/best-of-mic-d-up-super-bowl-lx"
+      },
+      {
+        "name": "Tonal",
+        "link": "https://tonal.com/"
+      },
+      {
+        "name": "Showtime! on Nintendo Switch",
+        "link": "https://www.nintendo.com/us/store/products/princess-peach-showtime-switch/",
+        "carver": "Princess Peach"
+      },
+      {
+        "name": "Daloopa for historical financial data",
+        "link": "https://daloopa.com/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/formula-1"
   }
 ]
