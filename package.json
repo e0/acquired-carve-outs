@@ -1,18 +1,27 @@
 {
   "name": "acquired-carve-outs",
-  "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "prepare": "vp config"
+  },
   "devDependencies": {
-    "@types/bun": "latest",
-    "puppeteer": "^22.6.2",
-    "vite": "^5.2.8"
+    "puppeteer": "^22.15.0",
+    "tsx": "latest",
+    "vite": "npm:@voidzero-dev/vite-plus-core@^0.1.16",
+    "vite-plus": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
-  "scripts": {
-    "dev": "bunx --bun vite",
-    "build": "vite build",
-    "serve": "vite preview"
+  "overrides": {
+    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
+    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "puppeteer"
+    ]
   }
 }
