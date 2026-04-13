@@ -3133,5 +3133,33 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/formula-1"
+  },
+  {
+    "title": "Ferrari",
+    "episode": "Season 19, Episode 2",
+    "date": "April 13, 2026",
+    "carveOuts": [
+      {
+        "name": "Ford v Ferrari",
+        "link": "https://www.imdb.com/title/tt1950186/"
+      },
+      {
+        "name": "Maison Wheat sweaters",
+        "link": "https://maisonwheat.com/collections/mens?gad_source=1&gad_campaignid=22696090715&gbraid=0AAAAAp9Ya75ijeZKDNsuwXGfYz1rqHTvQ&gclid=CjwKCAjw1tLOBhAMEiwAiPkRHpvxw79MOGInML2jOvTqpaB1QkPsGpsbgjFdcnbCLO1MIgjCo_65yhoCjV4QAvD_BwE"
+      },
+      {
+        "name": "Craighill scissors",
+        "link": "https://craighill.co/products/chroma-scissors?tw_source=google&tw_adid=&tw_campaign=23202298246&tw_kwdid=&gad_source=1&gad_campaignid=23192830497&gbraid=0AAAAACwaZstAWFYio9lIB0Y2DzeAM6SYm&gclid=CjwKCAjw1tLOBhAMEiwAiPkRHofpCCxg2cWH9q3JjNIKjnWh0A8ydjVpHl5xXSGkgnZKdaBimSPkURoCIE8QAvD_BwE"
+      },
+      {
+        "name": "Amazon grocery service",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-same-day-fresh-grocery-delivery-united-states"
+      },
+      {
+        "name": "Travelpro Altitude backpack",
+        "link": "https://travelpro.com/products/altitude%E2%84%A2-medium-expandable-laptop-backpack-25-30l"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/ferrari"
   }
 ]
