@@ -120,9 +120,8 @@ if (specialEpisodeIndex === -1) {
         name: "Receiver on Netflix",
         link: "https://www.netflix.com/se-en/title/81733809",
       },
-    ]
-  })
+    ],
+  });
 }
-
 
 fs.writeFileSync("public/carve-outs.json", JSON.stringify(episodes, null, 2));
