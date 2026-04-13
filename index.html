@@ -12,7 +12,65 @@
       rel="stylesheet"
     />
 
+    <script>
+      (function () {
+        var t = localStorage.getItem("theme");
+        if (t === "light" || t === "dark") {
+          document.documentElement.setAttribute("data-theme", t);
+        }
+      })();
+    </script>
+
     <style>
+      /* ── Theme variables ── */
+      :root {
+        --color-bg: #f2ebe6;
+        --color-text: #020202;
+        --color-border: #e0d8d2;
+        --color-card-bg: #f8f4f2;
+        --color-card-border: #e5ddd7;
+        --color-card-divider: #e0d8d2;
+        --color-muted: #9a8e88;
+        --color-underline: #c9bfb8;
+        --color-logo: #0c3b3a;
+        --color-logo-hover: #2d8a78;
+        --color-btn-bg-hover: #020202;
+        --color-btn-text-hover: #f2ebe6;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme="light"]) {
+          --color-bg: #1a1a1a;
+          --color-text: #eee;
+          --color-border: rgba(238, 238, 238, 0.1);
+          --color-card-bg: #222;
+          --color-card-border: rgba(238, 238, 238, 0.1);
+          --color-card-divider: rgba(238, 238, 238, 0.1);
+          --color-muted: #7a7a7a;
+          --color-underline: rgba(238, 238, 238, 0.2);
+          --color-logo: #eee;
+          --color-logo-hover: #5ce0b8;
+          --color-btn-bg-hover: #eee;
+          --color-btn-text-hover: #1a1a1a;
+        }
+      }
+
+      [data-theme="dark"] {
+        --color-bg: #1a1a1a;
+        --color-text: #eee;
+        --color-border: rgba(238, 238, 238, 0.1);
+        --color-card-bg: #222;
+        --color-card-border: rgba(238, 238, 238, 0.1);
+        --color-card-divider: rgba(238, 238, 238, 0.1);
+        --color-muted: #7a7a7a;
+        --color-underline: rgba(238, 238, 238, 0.2);
+        --color-logo: #eee;
+        --color-logo-hover: #5ce0b8;
+        --color-btn-bg-hover: #eee;
+        --color-btn-text-hover: #1a1a1a;
+      }
+
+      /* ── Reset ── */
       *,
       *::before,
       *::after {
@@ -23,9 +81,12 @@
 
       body {
         font-family: "Source Serif 4", Georgia, serif;
-        background-color: #f5eeea;
-        color: #1a1a1a;
+        background-color: var(--color-bg);
+        color: var(--color-text);
         -webkit-font-smoothing: antialiased;
+        transition:
+          background-color 0.2s,
+          color 0.2s;
       }
 
       /* ── Header ── */
@@ -34,7 +95,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border-bottom: 1px solid #d9cec8;
+        border-bottom: 1px solid var(--color-border);
       }
 
       .site-logo {
@@ -49,12 +110,12 @@
       }
 
       .site-logo svg path {
-        fill: #0c3b3a;
+        fill: var(--color-logo);
         transition: fill 0.15s;
       }
 
       .site-logo:hover svg path {
-        fill: #48b898;
+        fill: var(--color-logo-hover);
       }
 
       .site-heading {
@@ -63,7 +124,13 @@
         font-weight: 400;
         font-style: italic;
         letter-spacing: -0.01em;
-        color: #1a1a1a;
+        color: var(--color-text);
+      }
+
+      .header-actions {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
       }
 
       .site-header-btn {
@@ -73,18 +140,55 @@
         letter-spacing: 0.08em;
         text-transform: uppercase;
         text-decoration: none;
-        color: #1a1a1a;
-        padding: 0.45rem 0.9rem;
-        border: 1px solid #1a1a1a;
-        border-radius: 3px;
+        color: var(--color-text);
+        padding: 0.45rem 0.75rem;
+        border: 1px solid var(--color-text);
+        background: none;
+        cursor: pointer;
         transition:
           background-color 0.15s,
           color 0.15s;
       }
 
       .site-header-btn:hover {
-        background-color: #1a1a1a;
-        color: #f5eeea;
+        background-color: var(--color-btn-bg-hover);
+        color: var(--color-btn-text-hover);
+      }
+
+      /* ── Theme toggle ── */
+      .theme-toggle {
+        display: flex;
+        border: 1px solid var(--color-text);
+        overflow: hidden;
+      }
+
+      .theme-toggle button {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 0.7rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--color-muted);
+        background: none;
+        border: none;
+        padding: 0.45rem 0.75rem;
+        cursor: pointer;
+        transition:
+          background-color 0.15s,
+          color 0.15s;
+      }
+
+      .theme-toggle button:not(:last-child) {
+        border-right: 1px solid var(--color-border);
+      }
+
+      .theme-toggle button:hover {
+        color: var(--color-text);
+      }
+
+      .theme-toggle button[aria-pressed="true"] {
+        background-color: var(--color-text);
+        color: var(--color-bg);
       }
 
       /* ── Card grid ── */
@@ -103,10 +207,13 @@
 
       /* ── Cards ── */
       .card {
-        background: #fff;
-        border: 1px solid #e2d9d3;
-        border-radius: 8px;
+        background: var(--color-card-bg);
+        border: 1px solid var(--color-card-border);
+        border-radius: 0;
         padding: 1.5rem;
+        transition:
+          background-color 0.2s,
+          border-color 0.2s;
       }
 
       @media (min-width: 768px) {
@@ -136,6 +243,7 @@
       }
 
       .card h4 a {
+        color: var(--color-text);
         text-decoration: none;
       }
 
@@ -149,7 +257,7 @@
         font-weight: 600;
         letter-spacing: 0.1em;
         text-transform: uppercase;
-        color: #9a8e88;
+        color: var(--color-muted);
         margin-bottom: 0.5rem;
       }
 
@@ -166,15 +274,15 @@
       }
 
       .card a {
-        color: #1a1a1a;
+        color: var(--color-text);
         text-decoration: underline;
-        text-decoration-color: #c9bfb8;
+        text-decoration-color: var(--color-underline);
         text-underline-offset: 2px;
         transition: text-decoration-color 0.15s;
       }
 
       .card a:hover {
-        text-decoration-color: #1a1a1a;
+        text-decoration-color: var(--color-text);
       }
 
       .card .episode-meta {
@@ -183,17 +291,17 @@
         font-weight: 600;
         letter-spacing: 0.06em;
         text-transform: uppercase;
-        color: #9a8e88;
+        color: var(--color-muted);
         padding-top: 1rem;
-        border-top: 1px solid #ede6e1;
+        border-top: 1px solid var(--color-card-divider);
       }
 
       .card .episode-meta a {
-        color: #9a8e88;
+        color: var(--color-muted);
       }
 
       .card .episode-meta a:hover {
-        color: #1a1a1a;
+        color: var(--color-text);
       }
 
       /* ── Mobile ── */
@@ -248,11 +356,44 @@
         </svg>
       </a>
       <h1 class="site-heading">All Carve Outs</h1>
-      <a href="https://github.com/e0/acquired-carve-outs" target="_blank" class="site-header-btn"
-        >Source Code</a
-      >
+      <div class="header-actions">
+        <a href="https://github.com/e0/acquired-carve-outs" target="_blank" class="site-header-btn"
+          >Source Code</a
+        >
+        <div class="theme-toggle" role="group" aria-label="Theme">
+          <button data-theme-value="system">Auto</button>
+          <button data-theme-value="light">Light</button>
+          <button data-theme-value="dark">Dark</button>
+        </div>
+      </div>
     </header>
     <div id="json-list-container"></div>
     <script type="module" src="/src/main.js"></script>
+    <script>
+      (function () {
+        var buttons = document.querySelectorAll(".theme-toggle button");
+
+        function apply(t) {
+          if (t === "system") {
+            document.documentElement.removeAttribute("data-theme");
+          } else {
+            document.documentElement.setAttribute("data-theme", t);
+          }
+          buttons.forEach(function (btn) {
+            btn.setAttribute("aria-pressed", btn.dataset.themeValue === t);
+          });
+        }
+
+        buttons.forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            var value = btn.dataset.themeValue;
+            localStorage.setItem("theme", value);
+            apply(value);
+          });
+        });
+
+        apply(localStorage.getItem("theme") || "system");
+      })();
+    </script>
   </body>
 </html>
