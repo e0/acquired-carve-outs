@@ -5,94 +5,254 @@
 
     <title>acquired.fm carve outs</title>
 
-    <link rel="stylesheet" href="https://unpkg.com/chota@latest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
       rel="stylesheet"
     />
 
-    <script
-      src="https://unpkg.com/htmx.org@1.9.11"
-      integrity="sha384-0gxUXCCR8yv9FM2b+U3FDbsKthCI66oH5IA9fHppQq9DDMHuMauqq1ZHBpJxQ0J0"
-      crossorigin="anonymous"
-    ></script>
-
     <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
       body {
-        font-family: "Lora", serif;
-        padding: 1rem;
+        font-family: "Source Serif 4", Georgia, serif;
+        background-color: #f5eeea;
+        color: #1a1a1a;
+        -webkit-font-smoothing: antialiased;
       }
 
-      .nav {
-        margin: -1rem;
-        margin-bottom: 1rem;
-        font-family: Arial, sans-serif;
-
-        background-color: #000;
-        color: #fff;
-        padding: 1rem 0;
-      }
-
-      .container {
+      /* ── Header ── */
+      .site-header {
+        padding: 1.75rem 2rem 1.25rem;
         display: flex;
         justify-content: space-between;
         align-items: center;
+        border-bottom: 1px solid #d9cec8;
       }
 
-      .nav-brand {
-        font-size: 2rem;
+      .site-logo {
+        display: block;
+        cursor: pointer;
+      }
+
+      .site-logo svg {
+        height: 18px;
+        width: auto;
+        display: block;
+      }
+
+      .site-logo svg path {
+        fill: #0c3b3a;
+        transition: fill 0.15s;
+      }
+
+      .site-logo:hover svg path {
+        fill: #48b898;
+      }
+
+      .site-heading {
+        font-family: "Source Serif 4", Georgia, serif;
+        font-size: 1.5rem;
+        font-weight: 400;
+        font-style: italic;
+        letter-spacing: -0.01em;
+        color: #1a1a1a;
+      }
+
+      .site-header-btn {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 0.7rem;
         font-weight: 600;
-        color: #3fc;
-      }
-
-      .nav-content .link {
-        color: #3fc;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
         text-decoration: none;
-        font-size: 1.25rem;
-        padding: 0.5rem 1rem;
-        margin-left: 1rem;
-        border: 1px solid #3fc;
+        color: #1a1a1a;
+        padding: 0.45rem 0.9rem;
+        border: 1px solid #1a1a1a;
+        border-radius: 3px;
+        transition:
+          background-color 0.15s,
+          color 0.15s;
       }
 
+      .site-header-btn:hover {
+        background-color: #1a1a1a;
+        color: #f5eeea;
+      }
+
+      /* ── Card grid ── */
       #json-list-container {
+        padding: 2rem 2rem 4rem;
         display: grid;
-        gap: 1rem;
+        gap: 1.5rem;
         grid-template-columns: 1fr;
-      }
-
-      .card h4 {
-        font-weight: 600;
       }
 
       @media (min-width: 768px) {
         #json-list-container {
-          grid-template-columns: repeat(2, 1fr);
+          grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
         }
       }
 
-      /* Desktop (at least 1024px) */
-      @media (min-width: 1024px) {
+      /* ── Cards ── */
+      .card {
+        background: #fff;
+        border: 1px solid #e2d9d3;
+        border-radius: 8px;
+        padding: 1.5rem;
+      }
+
+      @media (min-width: 768px) {
+        .card {
+          height: 20rem;
+          display: flex;
+          flex-direction: column;
+        }
+
+        .card-content {
+          flex: 1;
+          overflow-y: auto;
+          min-height: 0;
+        }
+
+        .card .episode-meta {
+          flex-shrink: 0;
+        }
+      }
+
+      .card h4 {
+        font-family: "Source Serif 4", Georgia, serif;
+        font-size: 1.25rem;
+        font-weight: 600;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+      }
+
+      .card h4 a {
+        text-decoration: none;
+      }
+
+      .card h4 a:hover {
+        text-decoration: underline;
+      }
+
+      .card .carveouts-label {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 0.65rem;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: #9a8e88;
+        margin-bottom: 0.5rem;
+      }
+
+      .card ul {
+        list-style: disc;
+        padding-left: 1.2rem;
+        margin-bottom: 1rem;
+      }
+
+      .card li {
+        font-size: 0.95rem;
+        line-height: 1.55;
+        margin-bottom: 0.2rem;
+      }
+
+      .card a {
+        color: #1a1a1a;
+        text-decoration: underline;
+        text-decoration-color: #c9bfb8;
+        text-underline-offset: 2px;
+        transition: text-decoration-color 0.15s;
+      }
+
+      .card a:hover {
+        text-decoration-color: #1a1a1a;
+      }
+
+      .card .episode-meta {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 0.7rem;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #9a8e88;
+        padding-top: 1rem;
+        border-top: 1px solid #ede6e1;
+      }
+
+      .card .episode-meta a {
+        color: #9a8e88;
+      }
+
+      .card .episode-meta a:hover {
+        color: #1a1a1a;
+      }
+
+      /* ── Mobile ── */
+      @media (max-width: 600px) {
+        .site-header {
+          padding: 1.25rem 1.25rem 1rem;
+        }
+
+        .site-heading {
+          font-size: 1.1rem;
+        }
+
         #json-list-container {
-          grid-template-columns: repeat(3, 1fr);
+          padding: 1.5rem 1.25rem 3rem;
         }
       }
     </style>
   </head>
 
   <body>
-    <nav class="nav">
-      <div class="container">
-        <span class="nav-brand">ACQUIRED.FM CARVE OUTS</span>
-        <div class="nav-content">
-          <a href="https://github.com/e0/acquired-carve-outs" target="_blank" class="link"
-            >Source Code</a
-          >
-        </div>
-      </div>
-    </nav>
-    <div id="json-list-container" />
+    <header class="site-header">
+      <a href="https://www.acquired.fm" target="_blank" class="site-logo">
+        <svg
+          width="520"
+          height="67"
+          viewBox="0 0 520 67"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M50.171 63.1794L46.2543 52.4631H18.4644L14.5477 63.1794H0L24.0597 1.02503H40.6591L64.6255 63.1794H50.171ZM32.3594 12.4868L22.0081 41.0014H42.6174L32.3594 12.4868Z"
+          />
+          <path
+            d="M104.297 64.2976C86.1127 64.2976 71.6582 51.2517 71.6582 32.1488C71.6582 13.0459 86.1127 0 104.297 0C118.472 0 126.399 7.4548 130.782 15.1891L119.405 20.7803C116.794 15.7483 111.198 11.7413 104.297 11.7413C93.4798 11.7413 85.2734 20.4075 85.2734 32.1488C85.2734 43.8901 93.4798 52.5563 104.297 52.5563C111.198 52.5563 116.794 48.6426 119.405 43.5174L130.782 49.0153C126.306 56.7497 118.472 64.2976 104.297 64.2976Z"
+          />
+          <path
+            d="M208.139 32.1488C208.139 40.9082 205.155 48.5494 200.026 54.1405L204.595 59.452L195.363 67L190.42 61.1293C186.037 63.1794 181.002 64.2976 175.593 64.2976C156.849 64.2976 143.14 50.879 143.14 32.1488C143.14 13.4186 156.849 0 175.593 0C194.43 0 208.139 13.4186 208.139 32.1488ZM175.593 52.5563C177.924 52.5563 180.162 52.1836 182.121 51.4381L175.033 43.1446L184.266 35.6898L191.353 43.9833C193.404 40.7218 194.524 36.6217 194.524 32.1488C194.524 20.5007 187.063 11.7413 175.593 11.7413C164.123 11.7413 156.755 20.5007 156.755 32.1488C156.755 43.7038 164.123 52.5563 175.593 52.5563Z"
+          />
+          <path
+            d="M224.892 38.3922V1.02503H238.32V37.9263C238.32 46.5925 243.076 52.5563 252.775 52.5563C262.287 52.5563 267.043 46.5925 267.043 37.9263V1.02503H280.472V38.299C280.472 53.7677 271.612 64.2976 252.775 64.2976C233.751 64.2976 224.892 53.6745 224.892 38.3922Z"
+          />
+          <path d="M300.199 63.1794V1.02503H313.441V63.1794H300.199Z" />
+          <path
+            d="M368.406 63.1794L356.19 40.9082H346.492V63.1794H333.249V1.02503H362.345C375.307 1.02503 383.234 9.50487 383.234 21.0598C383.234 32.0556 376.333 37.9263 369.619 39.5104L383.607 63.1794H368.406ZM369.712 20.9666C369.712 15.7483 365.702 12.3936 360.387 12.3936H346.492V29.5396H360.387C365.702 29.5396 369.712 26.185 369.712 20.9666Z"
+          />
+          <path
+            d="M400.633 63.1794V1.02503H444.649V12.3936H413.875V25.9054H443.997V37.274H413.875V51.7177H444.649V63.1794H400.633Z"
+          />
+          <path
+            d="M462.462 63.1794V1.02503H486.988C506.478 1.02503 520 13.4186 520 32.1488C520 50.879 506.478 63.1794 486.988 63.1794H462.462ZM475.704 51.5313H486.988C499.297 51.5313 506.478 42.6787 506.478 32.1488C506.478 21.153 499.764 12.6732 486.988 12.6732H475.704V51.5313Z"
+          />
+        </svg>
+      </a>
+      <h1 class="site-heading">All Carve Outs</h1>
+      <a href="https://github.com/e0/acquired-carve-outs" target="_blank" class="site-header-btn"
+        >Source Code</a
+      >
+    </header>
+    <div id="json-list-container"></div>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
