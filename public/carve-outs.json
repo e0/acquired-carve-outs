@@ -3161,5 +3161,37 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/ferrari"
+  },
+  {
+    "title": "Vanguard",
+    "episode": "Season 19, Episode 3",
+    "date": "May 18, 2026",
+    "carveOuts": [
+      {
+        "name": "Our WSJ pieces on Ferrari and Vanguard",
+        "link": "https://www.wsj.com/business/autos/ferrari-acquired-podcast-luca-di-montezemolo-6d2ee2cb?mod=hp_lead_pos10"
+      },
+      {
+        "name": "MacBook Pro M5 Max",
+        "link": "https://www.apple.com/macbook-pro/"
+      },
+      {
+        "name": "Michael MacKelvie on YouTube",
+        "link": "https://www.youtube.com/@michaelmackelvie"
+      },
+      {
+        "name": "The Super Mario Galaxy Movie",
+        "link": "https://www.imdb.com/title/tt28650488/"
+      },
+      {
+        "name": "Brooks Vanguard sneakers‍",
+        "link": "https://www.brooksrunning.com/en_us/featured/unisex-lifestyle-shoes/brooks-vanguard/100059.html?srsltid=AfmBOormYAkyiPz_dIVWW6yFjI7AxEWeHaLDR0KpX4lbCv3rKy1BiG2o"
+      },
+      {
+        "name": "WeAreDevelopers event with J.P. Morgan",
+        "link": "http://wearedevelopers.com/acquired"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/vanguard"
   }
 ]
