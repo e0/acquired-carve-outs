@@ -89,27 +89,35 @@ const getEpisodeUrls = async (url: string) => {
         items.push(link.href);
       }
     });
-    return items.reverse();
+    return items;
   });
 
   return urls;
 };
 
 const episodesPageUrl = `https://www.acquired.fm/episodes`;
-const allEpisodeUrls = episodes.map((episode) => episode.url);
+const existingUrls = new Set(episodes.map((episode) => episode.url));
 const episodeUrls = await getEpisodeUrls(episodesPageUrl);
-const newEpisodeUrls = episodeUrls.filter((url) => !allEpisodeUrls.includes(url));
 
-// for each new episode, get the carveouts
-for (const url of newEpisodeUrls) {
+// iterate in date desc order (as listed on the site) and stop at the first
+// already-known episode — everything older has already been processed
+const newEpisodes: typeof episodes = [];
+for (const url of episodeUrls) {
+  if (existingUrls.has(url)) {
+    console.log(`Reached already-saved episode ${url}, stopping`);
+    break;
+  }
   console.log(`Getting carveouts for episode ${url}`);
   const carveOuts = await getCareveoutsForPage(url);
   if (carveOuts.carveOuts.length === 0) {
     console.log(`No carveouts found for episode ${url}`);
   } else {
-    episodes.push(carveOuts);
+    newEpisodes.push(carveOuts);
   }
 }
+
+// new episodes were collected newest-first; append in chronological order
+episodes.push(...newEpisodes.reverse());
 
 // write to careve-outs.json
 fs.writeFileSync("public/carve-outs.json", JSON.stringify(episodes, null, 2));
