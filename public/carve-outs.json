@@ -3193,5 +3193,37 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/vanguard"
+  },
+  {
+    "title": "The Walt Disney Company",
+    "episode": "Season 19, Episode 4",
+    "date": "June 22, 2026",
+    "carveOuts": [
+      {
+        "name": "Brooks Vanguard sneakers",
+        "link": "https://bit.ly/acqbrooksvanguard"
+      },
+      {
+        "name": "Defunctland YouTube Channel",
+        "link": "https://www.youtube.com/@Defunctland"
+      },
+      {
+        "name": "Animagraffs YouTube Channel",
+        "link": "https://www.youtube.com/@Animagraffs"
+      },
+      {
+        "name": "Volvo EX30",
+        "link": "https://www.volvocars.com/us/cars/ex30-electric/"
+      },
+      {
+        "name": "The San Francisco Symphony‍",
+        "link": "https://www.sfsymphony.org/"
+      },
+      {
+        "name": "WeAreDevelopers event with J.P. Morgan",
+        "link": "http://wearedevelopers.com/acquired"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/the-walt-disney-company"
   }
 ]
