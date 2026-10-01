@@ -3225,5 +3225,81 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/the-walt-disney-company"
+  },
+  {
+    "title": "Disney: The Renaissance and the Empire",
+    "episode": "Season 20, Episode 1",
+    "date": "August 10, 2026",
+    "carveOuts": [
+      {
+        "name": "Warby Parker Transitions Extra Active",
+        "link": "https://www.warbyparker.com/eyeglasses/light-responsive"
+      },
+      {
+        "name": "Michael Arndt's Toy Story 3 Story Presentation",
+        "link": "https://youtu.be/FBcwt3QlY_8?si=fp92rR-B46Sz74GG"
+      },
+      {
+        "name": "The Golden State Valkyries",
+        "link": "https://valkyries.wnba.com/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire"
+  },
+  {
+    "title": "The Home Depot",
+    "episode": "Season 20, Episode 2",
+    "date": "September 14, 2026",
+    "carveOuts": [
+      {
+        "name": "Silo Season 3",
+        "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+      },
+      {
+        "name": "Tires Season 3",
+        "link": "https://www.imdb.com/title/tt31491435/"
+      },
+      {
+        "name": "Ratio 8 Coffee Maker",
+        "link": "https://link.acquired.fm/4iNsnAo"
+      },
+      {
+        "name": "Trade Coffee",
+        "link": "https://link.acquired.fm/4gDhPCJ"
+      },
+      {
+        "name": "Quarterback",
+        "link": "https://www.imdb.com/title/tt26777035/"
+      },
+      {
+        "name": "Comedian",
+        "link": "https://www.imdb.com/title/tt0328962/?ref_=nv_sr_srsg_4_tt_4_nm_4_in_0_q_comedian"
+      },
+      {
+        "name": "Silo Season 3",
+        "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+      },
+      {
+        "name": "Tires Season 3",
+        "link": "https://www.imdb.com/title/tt31491435/"
+      },
+      {
+        "name": "Ratio 8 Coffee Maker",
+        "link": "https://link.acquired.fm/4iNsnAo"
+      },
+      {
+        "name": "Trade Coffee",
+        "link": "https://link.acquired.fm/4gDhPCJ"
+      },
+      {
+        "name": "Quarterback",
+        "link": "https://www.imdb.com/title/tt26777035/"
+      },
+      {
+        "name": "Comedian",
+        "link": "https://www.imdb.com/title/tt0328962/?ref_=nv_sr_srsg_4_tt_4_nm_4_in_0_q_comedian"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/home-depot"
   }
 ]
