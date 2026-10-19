@@ -3301,5 +3301,63 @@
       }
     ],
     "url": "https://www.acquired.fm/episodes/home-depot"
+  },
+  {
+    "title": "Seinfeld",
+    "episode": "Season undefined, Episode 3",
+    "date": "October 18, 2026",
+    "carveOuts": [
+      {
+        "name": "Seinfeld - \"The Marine Biologist\"",
+        "link": "https://www.imdb.com/title/tt0697734/"
+      },
+      {
+        "name": "Seinfeld - \"The Jacket\"",
+        "link": "https://www.imdb.com/title/tt0697717/"
+      },
+      {
+        "name": "Seinfeld - \"The Dinner Party\"",
+        "link": "https://www.imdb.com/title/tt0697685/"
+      },
+      {
+        "name": "An Unnecessary Data Exploration by Andy Kirk",
+        "link": "https://seinfeld.visualisingdata.com/",
+        "carver": "The Seinfeld Chronicles"
+      },
+      {
+        "name": "Buck's of Woodside",
+        "link": "https://buckswoodside.com/"
+      },
+      {
+        "name": "Tin Can",
+        "link": "https://tincan.kids/"
+      },
+      {
+        "name": "Seinfeld - \"The Marine Biologist\"",
+        "link": "https://www.imdb.com/title/tt0697734/"
+      },
+      {
+        "name": "Seinfeld - \"The Jacket\"",
+        "link": "https://www.imdb.com/title/tt0697717/"
+      },
+      {
+        "name": "Seinfeld - \"The Dinner Party\"",
+        "link": "https://www.imdb.com/title/tt0697685/"
+      },
+      {
+        "name": "An Unnecessary Data Exploration by Andy Kirk",
+        "link": "https://seinfeld.visualisingdata.com/",
+        "carver": "The Seinfeld Chronicles"
+      },
+      {
+        "name": "Buck's of Woodside",
+        "link": "https://buckswoodside.com/"
+      },
+      {
+        "name": "Tin Can",
+        "link": "https://tincan.kids/"
+      }
+    ],
+    "url": "https://www.acquired.fm/episodes/seinfeld"
   }
 ]
